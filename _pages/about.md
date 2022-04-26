@@ -56,7 +56,8 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 <div class='paper-box-text' markdown="1">
 - **Automated CT-based modelling for the localisation and characterisation of obstruction in SBO**
   - *2020.08 - 2021.06*, The University of Sydney
-  - Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
+  - Supervised by Dr. Andre Kyme and Dr. Tony Pang
+  - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
 </div>
 </div>
 
@@ -72,11 +73,11 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
   - Japanese (Fluent)
   - English (Proficient)
 
-# Honors and Awards
-- Under Construction
+# Certifications
+- Japanese-Language Proficiency Certificate N1
 
-# Invited Talks
-- Under Construction
-
-# Internships
-- Under Construction
+# Courses
+- USYD <br/>
+Engineering Electromagnetics (94), Communications Electronics and Photonics (90), Thermal Engineering (88), Biomedical Design and Technology (88), Signals and Systems (87), Simulation and Numerical Solutions in Engineering (85), Materials (85), Anatomy and Physiology for Engineers, Electronic Devices and Circuits, Digital Logic, Graphics and Multimedia, Biomedical Image Analysis, Data Structures and Algorithms, Engineering Analysis, Biomedical Instrumentation, Biomanufacturing, Physics for Electrical Engineers, etc.
+- Others <br/>
+Coursera: [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
