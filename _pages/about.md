@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jiye Qiu is a graduate research student studying nuclear science and energy engineering at Osaka University. He obtained his bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. He is interested in medical imaging and medical physics. 
+Jiye Qiu is a graduate research student studying nuclear science and energy engineering at Osaka University. He obtained his bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
+
+Jiye is interested in medical imaging and medical physics. Currently, he is working on the development of neutron detection techniques in boron neutron capture therapy. 
 
 
 # News
@@ -51,9 +53,11 @@ Jiye Qiu is a graduate research student studying nuclear science and energy engi
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+<div class='paper-box-text' markdown="1">
 - Automated CT-based modelling for the localisation and characterisation of obstruction in SBO
   - *2020.08 - 2021.06*, The University of Sydney
   - Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
+</div>
 </div>
 
 # Skills
