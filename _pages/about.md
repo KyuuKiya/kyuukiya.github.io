@@ -16,14 +16,22 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-
+# About Me
 Jiye Qiu is a graduate research student studying nuclear science and energy engineering at Osaka University. He obtained his bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 Jiye is interested in medical imaging and medical physics. Currently, he is focusing on the neutron detection techniques in boron neutron capture therapy. 
 
 
 # News
-- *2022.04*: Start building the homepage. 
+- *2022.04*: Started building the homepage. 
+
+# Educations
+- *2022 - 2024*, M.Eng., Nuclear Science and Energy Engineering, Osaka University
+  - Field of Study: Boron Neutron Capture Therapy
+- *2017 - 2021*, B.Eng. (Hons I), Biomedical Engineering, The University of Sydney
+  - GPA: 3.55/4.00
+  - Majored in Electrical Engineering
+  - Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Publications 
 - Under Construction
@@ -42,14 +50,6 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 </div> 
-
-# Educations
-- *2022 - 2024*, M.Eng., Nuclear Science and Energy Engineering, Osaka University
-  - Field of Study: Boron Neutron Capture Therapy
-- *2017 - 2021*, B.Eng. (Hons I), Biomedical Engineering, The University of Sydney
-  - GPA: 3.55/4.00
-  - Majored in Electrical Engineering
-  - Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' alt="sym" width="100%"></div>
