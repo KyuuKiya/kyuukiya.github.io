@@ -53,13 +53,13 @@ Jiye Qiu is a graduate research student studying nuclear science and energy engi
   - Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Skills
- - Programming
+- Programming
   - Python (NumPy, OpenCV, Keras, Matplotlib, Skimage, SimpleITK, etc.)
   - MATLAB
- - Software
+- Software
   - Anaconda
   - 3D Slicer
- - Languages
+- Languages
   - Mandarin Chinese (Native)
   - Japanese (Fluent)
   - English (Proficient)
