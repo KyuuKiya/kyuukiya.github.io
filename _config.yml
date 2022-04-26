@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiye Qiu"
-description              : ""
+description              : "Master's Student at Osaka University"
 repository               : "KyuuKiya/kyuukiya.github.io"
 
 google_scholar_stats_use_cdn : true
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Jiye Qiu"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/profile.png"
   bio              : "Osaka University"
   location         : "Osaka, Japan"
   employer         :
