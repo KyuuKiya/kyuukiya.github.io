@@ -40,9 +40,6 @@ Jiye Qiu is a graduate research student studying nuclear science and energy engi
 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 </div> 
-  
-# Honors and Awards
-- Under Construction
 
 # Educations
 - *2022 - 2024*, M.Eng., Nuclear Science and Energy Engineering, Osaka University
@@ -51,6 +48,13 @@ Jiye Qiu is a graduate research student studying nuclear science and energy engi
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
   - Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
+
+# Projects
+<div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
+- Automated CT-based modelling for the localisation and characterisation of obstruction in SBO
+  - *2020.08 - 2021.06*, The University of Sydney
+  - Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
+</div>
 
 # Skills
 - Programming
@@ -63,6 +67,9 @@ Jiye Qiu is a graduate research student studying nuclear science and energy engi
   - Mandarin Chinese (Native)
   - Japanese (Fluent)
   - English (Proficient)
+
+# Honors and Awards
+- Under Construction
 
 # Invited Talks
 - Under Construction
