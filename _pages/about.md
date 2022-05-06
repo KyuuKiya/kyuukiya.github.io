@@ -73,7 +73,7 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
   - Japanese (Fluent)
   - English (Proficient)
 
-# Honors and Award
+# Honors and Awards
 - Faculty of Engineering Honours Recipient (Honours Class I) *2021*, <font color=grey>The University of Sydney</font> [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
