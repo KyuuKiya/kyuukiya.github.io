@@ -31,7 +31,7 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - *2017 - 2021*, B.Eng. (Hons I), Biomedical Engineering, The University of Sydney
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
-  - Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
+  - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Publications 
 - Under Construction
@@ -72,6 +72,9 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
   - Mandarin Chinese (Native)
   - Japanese (Fluent)
   - English (Proficient)
+
+# Honors and Award
+- *2021*, Faculty of Engineering Honours Recipient (Honours Class I) [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
 - *2021.08*, Japanese-Language Proficiency Certificate N1
