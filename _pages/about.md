@@ -26,9 +26,9 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - *2022.04*: Started building the homepage. 
 
 # Educations
-- *2022 - 2024*, M.Eng., Nuclear Science and Energy Engineering, Osaka University
+- M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
   - Field of Study: Boron Neutron Capture Therapy
-- *2017 - 2021*, B.Eng. (Hons I), Biomedical Engineering, The University of Sydney
+- B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
@@ -74,11 +74,11 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
   - English (Proficient)
 
 # Honors and Award
-- *2021*, Faculty of Engineering Honours Recipient (Honours Class I) [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
-- *2021.08*, Japanese-Language Proficiency Certificate N1
-- *2019.08*, Japanese-Language Proficiency Certificate N2
+- Japanese-Language Proficiency Certificate N1, *2021.08*
+- Japanese-Language Proficiency Certificate N2, *2019.08* 
 
 # Courses
 - USYD <br/>
