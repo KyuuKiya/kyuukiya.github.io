@@ -26,13 +26,13 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - *2022.04*: Started building the homepage. 
 
 # Educations
-<div class='paper-box'><div class='paper-box-image'><img src='images/Osaka_University_logo.svg.png' alt="sym" width="30%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/OU_logo_400x400.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
   - Field of Study: Boron Neutron Capture Therapy
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/USY_Mono_Stacked_Logo_360x360.png' alt="sym" width="30%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/USY_Mono_Stacked_Logo_360x360.png' alt="sym" width="50%"></div>
 <div class='paper-box-text' markdown="1">
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
