@@ -19,27 +19,21 @@ redirect_from:
 # About
 Jiye Qiu is a graduate research student studying nuclear science and energy engineering at Osaka University. He obtained his bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
-Jiye is interested in medical imaging and medical physics. Currently, he is focusing on the real-time neutron detection techniques for boron neutron capture therapy. 
+Jiye is interested in medical imaging and medical physics. Currently, he is focusing on the real-time epi-thermal neutron detection techniques for boron neutron capture therapy. 
 
 
 # News
 - *2022.04*: Started building the homepage. 
 
 # Educations
-<div class='paper-box'><div class='paper-box-image'><img src='images/OU_logo_400x400.png' alt="sym" width="50%"></div>
-<div class='paper-box-text' markdown="1">
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
+  - Current GPA: 3.57
   - Field of Study: Boron Neutron Capture Therapy
-</div>
-</div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/USYD_logo.png' alt="sym" width="50%"></div>
-<div class='paper-box-text' markdown="1">
+  - Featured Courses: Radiation Biology, Accelerator Physics, Laser Energetics, Fusion Reactor Engineering
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
-</div>
-</div>
 
 # Publications 
 - Under Construction
@@ -85,11 +79,8 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - Faculty of Engineering Honours Recipient (Honours Class I) *2021*, <font color=grey>The University of Sydney</font> [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
+- 放射線防護のための管理・計測コース, *2022.09*
 - Japanese-Language Proficiency Certificate N1, *2021.08*
 - Japanese-Language Proficiency Certificate N2, *2019.08* 
-
-# Courses
-- USYD <br/>
-Engineering Electromagnetics (94), Communications Electronics and Photonics (90), Thermal Engineering (88), Biomedical Design and Technology (88), Signals and Systems (87), Simulation and Numerical Solutions in Engineering (85), Materials (85), Anatomy and Physiology for Engineers, Electronic Devices and Circuits, Digital Logic, Graphics and Multimedia, Biomedical Image Analysis, Data Structures and Algorithms, Engineering Analysis, Biomedical Instrumentation, Biomanufacturing, Physics for Electrical Engineers, Introduction to Java Programming, etc.
-- Others <br/>
-Coursera: [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
+- Coursera Certificates
+  - [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
