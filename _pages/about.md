@@ -79,7 +79,7 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - Faculty of Engineering Honours Recipient (Honours Class I) *2021*, <font color=grey>The University of Sydney</font> [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
-- QST放射線防護のための管理・計測コース, *2022.09* [[pdf](docs/放射線防護のため管理・計測コース.pdf)]
+- QST放射線防護のための管理・計測コース, *2022.09* [[Image](images/放射線防護のための管理・計測コース.jpg)]
 - Japanese-Language Proficiency Certificate N1, *2021.08*
 - Japanese-Language Proficiency Certificate N2, *2019.08* 
 - Coursera Certificates: [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
