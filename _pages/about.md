@@ -27,7 +27,7 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 
 # Educations
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
-  - Current GPA: 3.57
+  - Current GPA: 3.57/4.00
   - Field of Study: Boron Neutron Capture Therapy
   - Featured Courses: Radiation Biology, Accelerator Physics, Laser Energetics, Fusion Reactor Engineering
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
