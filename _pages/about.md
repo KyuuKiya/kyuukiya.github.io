@@ -29,7 +29,6 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
   - Current GPA: 3.57/4.00
   - Field of Study: Boron Neutron Capture Therapy
-  - Featured Courses: Radiation Biology, Accelerator Physics, Laser Energetics, Fusion Reactor Engineering
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -63,23 +62,10 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 </div>
 </div>
 
-# Skills
-- Programming
-  - Python (NumPy, OpenCV, Keras, Matplotlib, Skimage, SimpleITK, etc.)
-  - MATLAB
-- Software
-  - Anaconda
-  - 3D Slicer
-- Languages
-  - Mandarin Chinese (Native)
-  - Japanese (Fluent)
-  - English (Proficient)
-
 # Honors and Awards
 - Faculty of Engineering Honours Recipient (Honours Class I) *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
 - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
 - Japanese-Language Proficiency Certificate N1, *2021.08*
-- Japanese-Language Proficiency Certificate N2, *2019.08* 
 - Coursera Certificates: [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
