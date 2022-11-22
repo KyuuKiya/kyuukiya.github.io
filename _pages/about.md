@@ -23,8 +23,8 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 
 
 # News
-- *2022.04*: Started building the homepage. 
 - *2022.11*: Made a poster presentation in [YBNCT-2022](https://isnct.net/ybnct2022/). 
+- *2022.04*: Started building the homepage. 
 
 # Educations
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
@@ -54,8 +54,8 @@ Jiye is interested in medical imaging and medical physics. Currently, he is focu
 </div> 
 
 # Presentations 
-- Posters
-  - <u>J. Qiu</u>, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022.
+- **Posters**
+  - <u>**J. Qiu**</u>, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022.
 
 
 # Projects
