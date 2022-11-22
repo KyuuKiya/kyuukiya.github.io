@@ -17,9 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-Jiye Qiu is a graduate research student studying nuclear science and energy engineering at Osaka University. He obtained his bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
-
-Jiye is interested in medical imaging and medical physics. Currently, he is focusing on the real-time epi-thermal neutron detection techniques for boron neutron capture therapy. 
+A graduate student studying nuclear science and energy engineering at Osaka University with a focus on boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. Devoted in solving technical issues in radiation therapy and medical imaging by combining multidisciplinary knowledge.
 
 
 # News
