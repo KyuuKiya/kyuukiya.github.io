@@ -70,7 +70,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - Faculty of Engineering Honours Recipient (Honours Class I) *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
-- International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/it22022.pdf)]
+- International Training Course on Carbon-ion Radiotherapy, *2022.12* 
 - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
 - Japanese-Language Proficiency Certificate N1, *2021.08*
 - Coursera Certificates: [Programming in C++: A Hands-on Introduction Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9), [AI for Medical Diagnosis](https://www.coursera.org/account/accomplishments/certificate/V7LFKJPWZ6ZA), [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L), [Machine Learning](https://www.coursera.org/account/accomplishments/certificate/RTT8CF6MA4V5)
