@@ -53,7 +53,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Presentations 
 - **Posters**
-  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022.
+  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 
 
 # Projects
