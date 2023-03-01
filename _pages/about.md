@@ -26,7 +26,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Educations
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
-  - Current GPA: 3.57/4.00
+  - Current GPA: 3.67/4.00
   - Field of Study: Boron Neutron Capture Therapy
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
