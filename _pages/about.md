@@ -51,8 +51,8 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div> 
 
 # Presentations 
-- **Posters**
-  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
+- **International**
+  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 
 
 # Projects
@@ -66,7 +66,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div>
 
 # Honors and Awards
-- Faculty of Engineering Honours Recipient (Honours Class I) *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications
 - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
