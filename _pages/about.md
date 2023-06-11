@@ -56,7 +56,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.jpg' alt="sym" width="100%"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.JPG' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
 - **Development of Real-time Absolute Epi-thermal Neutron Flux Intensity Monitor for Boron Neutron Capture Therapy**
   - *2022.04 - Now*, Osaka University
