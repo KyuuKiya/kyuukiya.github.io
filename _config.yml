@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Jiye Qiu (邱 季野)"
+title                    : "Jiye Qiu"
 description              : "Master's Student at Osaka University"
 repository               : "KyuuKiya/kyuukiya.github.io"
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Jiye Qiu (邱 季野)"
+  name             : "Jiye Qiu"
   avatar           : "images/profile.png"
   bio              : "Osaka University"
   location         : "Osaka, Japan"
