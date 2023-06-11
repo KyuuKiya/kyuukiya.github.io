@@ -56,7 +56,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.JPG' alt="sym" height="200" width="300"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.JPG' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Development of Real-time Absolute Epi-thermal Neutron Flux Intensity Monitor for Boron Neutron Capture Therapy**
   - *2022.04 - Now*, Osaka University
@@ -64,7 +64,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
   - Description: In boron neutron capture therapy (BNCT), epi-thermal neutron irradiation is carried out to treat deep-seated cancers, as epi-thermal neutrons can be slowed down in a human body and converted into thermal neutrons before reaching the tumor. Since the number of irradiated epi-thermal neutrons determines the therapeutic effect, it is significantly required to measure the epi-thermal neutron intensity during the irradiation. Thus, we have been developing a novel monitor to measure the absolute epi-thermal neutron flux intensity on the body surface of a patient in real-time during BNCT treatment. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' alt="sym" height="200" width="300"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Automated CT-based Modelling for the Localization and Characterization of Obstruction in Small Bowel obstruction**
   - *2020.08 - 2021.06*, The University of Sydney
