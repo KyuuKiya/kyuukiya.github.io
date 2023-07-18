@@ -20,6 +20,7 @@ redirect_from:
 A graduate student studying nuclear science and energy engineering at Osaka University with a focus on neutron detection in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 # News
+- *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
 - *2022.11*: Made a poster presentation in [YBNCT-2022](https://isnct.net/ybnct2022/). 
 - *2022.04*: Started building the homepage. 
 
@@ -51,8 +52,10 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div> 
 
 # Presentations 
-- **Posters (International)**
-  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
+- **International**
+  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
+- **Domestic**
+  - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", The 19th Congress on Neutron Capture Therapy, Yokohama Symposia, Japan, July 2023. (Oral)
 
 
 # Projects
