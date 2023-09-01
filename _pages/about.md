@@ -26,7 +26,6 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Educations
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
-  - Current GPA: 3.67/4.00
   - Field of Study: Neutron Detection in Boron Neutron Capture Therapy
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
@@ -79,7 +78,11 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 # Honors and Awards
 - Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
-# Certifications
-- International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
-- QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
-- Japanese-Language Proficiency Certificate N1, *2021.08*
+# Certifications and Licenses
+- Qualification
+  - Japanese-Language Proficiency Certificate N1, *2021.08*
+- Osaka University Graduate Program for Advanced Interdisciplinary Studies
+  - Co-creative Radiation Education Program (CREPE), *2023.09*
+- Training Certifications
+  - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
+  - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
