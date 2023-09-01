@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-A graduate student studying nuclear science and energy engineering at Osaka University with a focus on neutron detection in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
+A graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurement in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 # News
 - *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
@@ -26,7 +26,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Educations
 - M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024*
-  - Field of Study: Neutron Detection in Boron Neutron Capture Therapy
+  - Field of Study: Radiation Measurement in Boron Neutron Capture Therapy
 - B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021*
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -76,13 +76,14 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div>
 
 # Honors and Awards
-- Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
-- Qualifications
+- **Qualifications**
   - Japanese-Language Proficiency Certificate N1, *2021.08*
-- Osaka University Graduate Program for Advanced Interdisciplinary Studies
+- **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
   - Co-creative Radiation Education Program (CREPE), *2023.09*
-- Training Certifications
+- **Training Certifications**
   - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
+  - Coursera: Programming in C++: A Hands-on Introduction [[URL](https://coursera.org/share/a10f232ae8f368304b43e2511c759d3e)], Deep Learning [[URL](https://coursera.org/share/10b8d01515f14a7050581bab0bada2a4)]
