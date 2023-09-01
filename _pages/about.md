@@ -79,7 +79,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[Website](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
-- Qualification
+- Qualifications
   - Japanese-Language Proficiency Certificate N1, *2021.08*
 - Osaka University Graduate Program for Advanced Interdisciplinary Studies
   - Co-creative Radiation Education Program (CREPE), *2023.09*
