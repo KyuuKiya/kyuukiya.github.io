@@ -86,4 +86,4 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - **Training Certifications**
   - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
-  - Coursera: Programming in C++: A Hands-on Introduction [[URL](https://coursera.org/share/a10f232ae8f368304b43e2511c759d3e)], Deep Learning [[URL](https://coursera.org/share/10b8d01515f14a7050581bab0bada2a4)]
+  - Coursera: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
