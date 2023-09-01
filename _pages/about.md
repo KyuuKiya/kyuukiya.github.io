@@ -82,7 +82,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - **Qualifications**
   - Japanese-Language Proficiency Certificate N1, *2021.08*
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
-  - Co-creative Radiation Education Program (CREPE), *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/outline/index.html)]
+  - Co-creative Radiation Education Program (CREPE), *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
   - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
