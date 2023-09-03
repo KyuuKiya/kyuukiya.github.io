@@ -79,11 +79,14 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - Faculty of Engineering Honours Recipient (Honours Class I), *2021* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
-- **Qualifications**
+- **Professional Qualifications**
   - Japanese-Language Proficiency Certificate N1, *2021.08*
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
-  - Co-creative Radiation Education Program (CREPE), *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+  - Co-creative Radiation Education Programme (CREPE), *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
   - International Training Course on Carbon-ion Radiotherapy, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - QST放射線防護のための管理・計測コース, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
   - Coursera: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
+
+# Miscellaneous
+- **Languages**: Chinese(Native), Japanese(Native), English(Proficient)
