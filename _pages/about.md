@@ -89,4 +89,4 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
   - Coursera: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Miscellaneous
-- **Languages**: Chinese(Native), Japanese(Native), English(Proficient)
+- **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
