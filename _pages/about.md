@@ -76,18 +76,18 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div>
 
 # Honors and Awards
-- Faculty of Engineering Honours Recipient (Honours Class I), <font color=#800000>The University of Sydney</font>, *<font color=#696969>2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#696969">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
 - **Professional Qualifications**
-  - Japanese-Language Proficiency Certificate N1, <font color=#800000>The Japan Foundation</font>, *<font color=#696969>2021.08</font>*
-  - Japanese-Language Proficiency Certificate N2, <font color=#800000>The Japan Foundation</font>, *<font color=#696969>2019.08</font>*
+  - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#696969">2021.08</font>*
+  - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#696969">2019.08</font>*
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
-  - Co-creative Radiation Education Programme (CREPE), <font color=#800000>Institute for Radiation Sciences</font>, *<font color=#696969>2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+  - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#696969">2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
-  - International Training Course on Carbon-ion Radiotherapy, <font color=#800000>Association for Nuclear Technology in Medicine</font>, *<font color=#696969>2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
-  - 放射線防護のための管理・計測コース, <font color=#800000>National Institutes for Quantum Science and Technology</font>, *<font color=#696969>2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
-  - <font color=#800000>Coursera Online Courses</font>: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
+  - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#696969">2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
+  - 放射線防護のための管理・計測コース, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#696969">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
+  - <font color="#800000">Coursera Online Courses</font>: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Miscellaneous
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
