@@ -51,10 +51,10 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div> 
 
 # Presentations 
-- **<font size=4>International</font>**
-  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
-- **<font size=4>Domestic</font>**
-  - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", The 19th Congress on Neutron Capture Therapy, Yokohama Symposia, Japan, July 2023. (Oral)
+- **International**
+  - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
+- **Domestic**
+  - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral)
 
 
 # Projects
@@ -76,18 +76,18 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div>
 
 # Honors and Awards
-- **<u>Faculty of Engineering Honours Recipient (Honours Class I)</u>**, The University of Sydney, *2021* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Faculty of Engineering Honours Recipient (Honours Class I), <font color=#800000>The University of Sydney</font>, *<font color=#696969>2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
-- **<font size=4>Professional Qualifications</font>**
-  - **<u>Japanese-Language Proficiency Certificate N1</u>**, The Japan Foundation, *2021.08*
-  - **<u>Japanese-Language Proficiency Certificate N2</u>**, The Japan Foundation, *2019.08*
-- **<font size=4>Graduate Program for Advanced Interdisciplinary Studies (Osaka University)</font>**
-  - **<u>Co-creative Radiation Education Programme (CREPE)</u>**, Institute for Radiation Sciences, *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
-- **<font size=4>Training Certifications</font>**
-  - **<u>International Training Course on Carbon-ion Radiotherapy</u>**, Association for Nuclear Technology in Medicine, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
-  - **<u>放射線防護のための管理・計測コース</u>**, National Institutes for Quantum Science and Technology, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
-  - **Coursera Online Course**: <u>Programming in C++: A Hands-on Introduction</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], <u>Deep Learning</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
+- **Professional Qualifications**
+  - Japanese-Language Proficiency Certificate N1, <font color=#800000>The Japan Foundation</font>, *<font color=#696969>2021.08</font>*
+  - Japanese-Language Proficiency Certificate N2, <font color=#800000>The Japan Foundation</font>, *<font color=#696969>2019.08</font>*
+- **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
+  - Co-creative Radiation Education Programme (CREPE), <font color=#800000>Institute for Radiation Sciences</font>, *<font color=#696969>2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+- **Training Certifications**
+  - International Training Course on Carbon-ion Radiotherapy, <font color=#800000>Association for Nuclear Technology in Medicine</font>, *<font color=#696969>2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
+  - 放射線防護のための管理・計測コース, <font color=#800000>National Institutes for Quantum Science and Technology</font>, *<font color=#696969>2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
+  - <font color=#800000>Coursera Online Courses</font>: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Miscellaneous
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
