@@ -83,11 +83,11 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
   - **<u>Japanese-Language Proficiency Certificate N1</u>**, The Japan Foundation, *2021.08*
   - **<u>Japanese-Language Proficiency Certificate N2</u>**, The Japan Foundation, *2019.08*
 - **<font size=4>Graduate Program for Advanced Interdisciplinary Studies (Osaka University)</font>**
-  - **<u>Co-creative Radiation Education Programme (CREPE)</u>**, Institute for Radiation Sciences *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+  - **<u>Co-creative Radiation Education Programme (CREPE)</u>**, Institute for Radiation Sciences, *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **<font size=4>Training Certifications</font>**
   - **<u>International Training Course on Carbon-ion Radiotherapy</u>**, Association for Nuclear Technology in Medicine, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - **<u>放射線防護のための管理・計測コース</u>**, National Institutes for Quantum Science and Technology, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
-  - **Coursera**: <u>Programming in C++: A Hands-on Introduction</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], <u>Deep Learning</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
+  - **Coursera Online Course**: <u>Programming in C++: A Hands-on Introduction</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], <u>Deep Learning</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Miscellaneous
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
