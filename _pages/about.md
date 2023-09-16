@@ -25,9 +25,9 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - *2022.04*: Started building the homepage. 
 
 # Educations
-- <font size=5>**M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024***</font>
+- **<font size=4>M.Eng., Nuclear Science and Energy Engineering, Osaka University, *2022 - 2024* </font>**
   - Field of Study: Radiation Measurement in Boron Neutron Capture Therapy
-- <font size=5>**B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021***</font>
+- **<font size=4>B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, *2017 - 2021* </font>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
@@ -51,9 +51,9 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 </div> 
 
 # Presentations 
-- <font size=5>**International**</font>
+- **<font size=4>International</font>**
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, ”Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors”, Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022), Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
-- <font size=5>**Domestic**</font>
+- **<font size=4>Domestic</font>**
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", The 19th Congress on Neutron Capture Therapy, Yokohama Symposia, Japan, July 2023. (Oral)
 
 
@@ -79,12 +79,12 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - <u>Faculty of Engineering Honours Recipient (Honours Class I)</u>, The University of Sydney, *2021* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Certifications and Licenses
-- <font size=5>**Professional Qualifications**</font>
+- **<font size=4>Professional Qualifications</font>**
   - **<u>Japanese-Language Proficiency Certificate N1</u>**, The Japan Foundation, *2021.08*
   - **<u>Japanese-Language Proficiency Certificate N2</u>**, The Japan Foundation, *2019.08*
-- <font size=5>**Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**</font>
+- **<font size=4>Graduate Program for Advanced Interdisciplinary Studies (Osaka University)</font>**
   - **<u>Co-creative Radiation Education Programme (CREPE)</u>**, Institute for Radiation Sciences *2023.09* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
-- <font size=5>**Training Certifications**</font>
+- **<font size=4>Training Certifications</font>**
   - **<u>International Training Course on Carbon-ion Radiotherapy</u>**, Association for Nuclear Technology in Medicine, *2022.12* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - **<u>放射線防護のための管理・計測コース</u>**, National Institutes for Quantum Science and Technology, *2022.09* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
   - **Coursera**: <u>Programming in C++: A Hands-on Introduction</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], <u>Deep Learning</u> [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
