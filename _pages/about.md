@@ -25,9 +25,9 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - *2022.04*: Started building the homepage. 
 
 # Educations
-- **<font size=4>M.Eng., Nuclear Science and Energy Engineering, Osaka University, <em>2022 - 2024</em></font>**
+- **Master of Engineering, Nuclear Science and Energy Engineering, Osaka University, <em>2022 - 2024</em>**
   - Field of Study: Radiation Measurement in Boron Neutron Capture Therapy
-- **<font size=4>B.Eng. (Hons I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em></font>**
+- **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
