@@ -97,4 +97,8 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
 - **Programming Languages**: Python, MATLAB, C++, Java
 - **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA
-- **Laboratory Skills**: Oscilloscope, Radiation Detectors (Scintillation, Semiconductor, etc.)
+- **Laboratory Skills**: Oscilloscope, Radiation Detectors (Scintillator, Semiconductor, etc.)
+
+# Access Information
+Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University
+2-1 Yamadaoka, Suita, Osaka, Japan
