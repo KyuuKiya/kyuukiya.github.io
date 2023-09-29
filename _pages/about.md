@@ -100,5 +100,5 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - **Laboratory Skills**: Oscilloscope, Radiation Detectors (Scintillator, Semiconductor, etc.)
 
 # Access Information
-Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University
-2-1 Yamadaoka, Suita, Osaka, Japan
+Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University<br>
+2-1 Yamadaoka, Suita, Osaka, Japan<br>
