@@ -78,6 +78,9 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 # Honors and Awards
 - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
+# Teaching Experiences
+- *<font color="#808080">2023</font>*, Exercise II in Energy Engineering (School of Engineering, Osaka University): Teaching Assistant
+
 # Certifications and Licenses
 - **Professional Qualifications**
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>*
@@ -85,7 +88,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
-  - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization</font>, *<font color="#808080">2023.09</font>*
+  - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>*
   - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - 放射線防護のための管理・計測コース, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
