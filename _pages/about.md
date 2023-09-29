@@ -78,8 +78,8 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 # Honors and Awards
 - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
-# Teaching Experiences
-- *<font color="#808080">2023</font>*, Exercise II in Energy Engineering (School of Engineering, Osaka University): Teaching Assistant
+# Teaching Experience
+- *<font color="#808080">2023 Fall Term</font>*, Exercise II in Energy Engineering (School of Engineering, Osaka University): Teaching Assistant
 
 # Certifications and Licenses
 - **Professional Qualifications**
