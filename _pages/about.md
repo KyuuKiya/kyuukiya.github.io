@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About
-A graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurement in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
+A graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurements in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 # News
 - *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
@@ -26,7 +26,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Educations
 - **Master of Engineering, Nuclear Science and Energy Engineering, Osaka University, <em>2022 - 2024</em>**
-  - Field of Study: Radiation Measurement in Boron Neutron Capture Therapy
+  - Field of Study: Radiation Measurements in Boron Neutron Capture Therapy
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -79,7 +79,7 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Teaching Experience
-- *<font color="#808080">2023 Fall</font>*, Exercise II in Energy Engineering (School of Engineering, Osaka University): Teaching Assistant
+- Exercise II in Energy Engineering (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2023</font>*
 
 # Certifications and Licenses
 - **Professional Qualifications**
