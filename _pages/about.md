@@ -32,6 +32,9 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
   - Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
+# Experiences
+- Research Student, <font color="#800000">School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.04</font>*
+
 # Publications 
 - Under Construction
 <div style='display: none'>
@@ -83,8 +86,8 @@ A graduate student studying nuclear science and energy engineering at Osaka Univ
 
 # Certifications and Licenses
 - **Professional Qualifications**
-  - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>*
-  - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>*
+  - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>*, (Certification No. N1A430621A)
+  - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>*, (Certification No. N2A510830A)
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
