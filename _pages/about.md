@@ -16,8 +16,8 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-# About
-A graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurements in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
+# About Me
+Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurements in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 # News
 - *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
