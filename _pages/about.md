@@ -33,7 +33,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experiences
-- Research Student, <font color="#800000">School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.04</font>*
+- Research Student, <font color="#800000">Quantum Reaction Engineering Laboratory, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 
 # Publications 
 - Under Construction
@@ -64,8 +64,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 <div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.JPG' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Development of Real-time Absolute Epi-thermal Neutron Flux Intensity Monitor for Boron Neutron Capture Therapy**
-  - *2022.04 - Now*, Osaka University
-  - Supervised by Prof. Isao Murata
+  - *2021.10 - Now*, Osaka University
   - Description: In boron neutron capture therapy (BNCT), epi-thermal neutron irradiation is carried out to treat deep-seated cancers, as epi-thermal neutrons can be slowed down in a human body and converted into thermal neutrons before reaching the tumor. Since the number of irradiated epi-thermal neutrons determines the therapeutic effect, it is significantly required to measure the epi-thermal neutron intensity during the irradiation. Thus, we have been developing a novel monitor to measure the absolute epi-thermal neutron flux intensity on the body surface of a patient in real-time during BNCT treatment. 
 </div>
 </div>
@@ -73,7 +72,6 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 <div class='paper-box-text' markdown="1">
 - **Automated CT-based Modelling for the Localization and Characterization of Obstruction in Small Bowel obstruction**
   - *2020.08 - 2021.06*, The University of Sydney
-  - Supervised by Dr. Andre Kyme and Dr. Tony Pang
   - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
 </div>
 </div>
