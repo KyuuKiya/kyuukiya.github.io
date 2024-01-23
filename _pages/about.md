@@ -22,7 +22,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
 # News
-- *2024.01*: Made a oral presentation in [RD2024(KEK)](https://www-conf.kek.jp/rdetconf/index.html). 
+- *2024.01*: Made a oral presentation in [RD2024 (KEK)](https://www-conf.kek.jp/rdetconf/index.html). 
 - *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
 - *2022.11*: Made a poster presentation in [YBNCT-2022](https://isnct.net/ybnct2022/). 
 - *2022.04*: Started building the homepage. 
