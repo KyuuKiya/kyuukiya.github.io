@@ -28,8 +28,8 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 - *2022.04*: Started building the homepage. 
 
 # Educations
-- **Master of Engineering, Nuclear Science and Energy Engineering, Osaka University, <em>2022 - 2024</em>**
-  - Field of Study: Radiation Measurements in Boron Neutron Capture Therapy
+- **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
+  - Nuclear Science and Energy Engineering Course
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -60,7 +60,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 - **International**
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic**
-  - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, High Energy Accelerator Research Organization, Japan, January 2024. (Oral) (In Japanese)
+  - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 
 
@@ -104,7 +104,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
 - **Programming Languages**: Python, MATLAB, C++, Java
 - **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA
-- **Laboratory Skills**: Oscilloscope, Radiation Detectors (Scintillator, Semiconductor, etc.)
+- **Laboratory Skills**: Oscilloscope, Radiation Detectors
 
 # Access Information
 Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University<br>
