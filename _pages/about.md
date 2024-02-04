@@ -103,8 +103,8 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 
 # Professional Memberships
 - **International Organizations**
-  - *2024 - Now*, Institute of Electrical and Electronics Engineers (Graduate Student Membership)
-  - *2024 - Now*, European Federation of Organisations for Medical Physics (Individual Associate Membership)
+  - Institute of Electrical and Electronics Engineers (Graduate Student Membership), *<font color="#808080">2024 - Now</font>*
+  - European Federation of Organisations for Medical Physics (Individual Associate Membership), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
