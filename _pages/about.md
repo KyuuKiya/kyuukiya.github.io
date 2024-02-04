@@ -30,6 +30,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 # Educations
 - **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
   - Nuclear Science and Energy Engineering Course
+  - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy"
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -102,7 +103,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 
 # Professional Memberships
 - **International Organizations**
-  - *2024 - Now*, Institute of Electrical and Electronics Engineers (Student Membership)
+  - *2024 - Now*, Institute of Electrical and Electronics Engineers (Graduate Student Membership)
   - *2024 - Now*, European Federation of Organisations for Medical Physics (Individual Associate Membership)
 
 # Skills
