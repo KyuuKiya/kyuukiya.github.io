@@ -100,7 +100,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
   - 放射線防護のための管理・計測コース, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
-# Professional Membership
+# Professional Memberships
 - **International Organizations**
   - *2024 - Now*, Institute of Electrical and Electronics Engineers (Student Membership)
   - *2024 - Now*, European Federation of Organisations for Medical Physics (Individual Associate Membership)
