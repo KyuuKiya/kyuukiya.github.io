@@ -30,7 +30,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 # Educations
 - **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
   - Nuclear Science and Energy Engineering Course
-  - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy"
+  - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
   - Majored in Electrical Engineering
@@ -103,10 +103,10 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 
 # Professional Memberships
 - **International Organizations**
-  - Institute of Electrical and Electronics Engineers (Graduate Student Membership), *<font color="#808080">2024 - Now</font>*
-  - IEEE Engineering in Medicine and Biology Society (Graduate Student Membership), *<font color="#808080">2024 - Now</font>*
-  - IEEE Nuclear and Plasma Sciences Society (Graduate Student Membership), *<font color="#808080">2024 - Now</font>*
-  - European Federation of Organisations for Medical Physics (Individual Associate Membership), *<font color="#808080">2024 - Now</font>*
+  - Institute of Electrical and Electronics Engineers (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+  - IEEE Engineering in Medicine and Biology Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+  - IEEE Nuclear and Plasma Sciences Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+  - European Federation of Organisations for Medical Physics (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
