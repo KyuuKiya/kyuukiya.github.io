@@ -31,6 +31,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Doctor of Philosophy (Engineering), Sustainable Energy and Environmental Engineering, Osaka University, <em>2024 - 2027</em>**
   - Nuclear Science and Energy Engineering Course
   - Field of Study: Prompt Gamma-ray Imaging for Particle Therapy
+  - Selected as a Candidate of *Fundamental and Astro Physics Research Unit* in Honors Program for Graduate Schools in Science, Engineering and Informatics
 - **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
   - Nuclear Science and Energy Engineering Course
   - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
