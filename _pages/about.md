@@ -122,6 +122,6 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Laboratory Skills**: Oscilloscope, Radiation Detectors
 
 # Access Information
-Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Suita Campus Osaka University<br>
+Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Suita Campus, Osaka University<br>
 2-1 Yamadaoka, Suita, Osaka, Japan<br>
  <br>
