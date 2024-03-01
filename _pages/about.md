@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear science and energy engineering at Osaka University with a focus on radiation measurements in boron neutron capture therapy. Obtained bachelor of engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at Osaka University with a focus on prompt gamma-ray imaging for particle therapy. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. 
 
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
@@ -28,6 +28,9 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 - *2022.04*: Started building the homepage. 
 
 # Educations
+- **Doctor of Philosophy (Engineering), Sustainable Energy and Environmental Engineering, Osaka University, <em>2024 - 2027</em>**
+  - Nuclear Science and Energy Engineering Course
+  - Field of Study: Prompt Gamma-ray Imaging for Particle Therapy
 - **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
   - Nuclear Science and Energy Engineering Course
   - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
@@ -58,9 +61,9 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
 </div> 
 
 # Presentations 
-- **International Meetings**
+- **International**
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
-- **Domestic Meetings**
+- **Domestic**
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 
@@ -94,7 +97,7 @@ Jiye Qiu (邱 季野 / キュウ キヤ) is a graduate student studying nuclear 
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>*, (Certification No. N1A430621A)
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>*, (Certification No. N2A510830A)
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
-  - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2023.09</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+  - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
   - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [[Image](https://kyuukiya.github.io/images/geant4_med_certificate.jpg)]
   - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
