@@ -24,6 +24,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
 # News
+- *2024.03*: Passed the entrance examination of [Honors Program for Graduate Schools in Science, Engineering and Informatics]([https://www-conf.kek.jp/rdetconf/index.html](https://www.sth.osaka-u.ac.jp/index.html)). 
 - *2024.01*: Made a oral presentation in [RD2024 (KEK)](https://www-conf.kek.jp/rdetconf/index.html). 
 - *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
 - *2022.11*: Made a poster presentation in [YBNCT-2022](https://isnct.net/ybnct2022/). 
@@ -33,7 +34,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Doctor of Philosophy (Engineering), Sustainable Energy and Environmental Engineering, Osaka University, <em>2024 - 2027</em>**
   - Nuclear Science and Energy Engineering Course
   - Field of Study: Prompt Gamma-ray Imaging for Particle Therapy
-  - Selected as a Candidate of *Fundamental and Astro Physics Research Unit* in Honors Program for Graduate Schools in Science, Engineering and Informatics
+  - Selected as a Candidate in ***Fundamental and Astro Physics Research Unit*** of Honors Program for Graduate Schools in Science, Engineering and Informatics
 - **Master of Engineering, Sustainable Energy and Environmental Engineering, Osaka University, <em>2022 - 2024</em>**
   - Nuclear Science and Energy Engineering Course
   - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
