@@ -44,7 +44,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experiences
-- Research Student, <font color="#800000">School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
+- Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 
 # Publications 
 - Under Construction
@@ -91,6 +91,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 </div>
 
 # Honors and Awards
+- Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024</font>* [[URL](https://www.sth.osaka-u.ac.jp/index.html)]
 - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Teaching Experience
