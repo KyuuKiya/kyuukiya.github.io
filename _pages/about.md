@@ -47,7 +47,8 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 
 # Publications 
-- Under Construction
+- **Conference Proceedings**
+  - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", Submitted Proceedings of the 38th Workshop on Radiation Detectors and Their Uses
 <div style='display: none'>
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
