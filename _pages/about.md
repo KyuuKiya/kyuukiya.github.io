@@ -119,6 +119,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - The Japan Society of Applied Physics (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 - **Domestic Memberships**
   - Japan Society of Medical Physics (Student Member), *<font color="#808080">2024 - Now</font>*
+  - The Japan Society of Applied Physics Ionizing Radiation Division (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
