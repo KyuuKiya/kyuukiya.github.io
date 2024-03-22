@@ -112,10 +112,13 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Professional Memberships
 - **International Organizations**
+  - European Federation of Organisations for Medical Physics (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
   - Institute of Electrical and Electronics Engineers (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - IEEE Engineering in Medicine and Biology Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - IEEE Nuclear and Plasma Sciences Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
-  - European Federation of Organisations for Medical Physics (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
+  - The Japan Society of Applied Physics (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- **Domestic Memberships**
+  - Japan Society of Medical Physics (Student Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
