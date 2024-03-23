@@ -111,15 +111,13 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Professional Memberships
-- **International Organizations**
-  - European Federation of Organisations for Medical Physics (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
-  - Institute of Electrical and Electronics Engineers (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
-  - IEEE Engineering in Medicine and Biology Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
-  - IEEE Nuclear and Plasma Sciences Society (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
-  - The Japan Society of Applied Physics (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
-- **Domestic Memberships**
-  - Japan Society of Medical Physics (Student Member), *<font color="#808080">2024 - Now</font>*
-  - The Japan Society of Applied Physics Ionizing Radiation Division (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [European Federation of Organisations for Medical Physics](https://www.efomp.org/) (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
+- [Institute of Electrical and Electronics Engineers](https://www.ieee.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [IEEE Nuclear and Plasma Sciences Society](http://www.ieee-npss.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [Japan Society of Medical Physics](https://www.jsmp.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
+- [The Japan Society of Applied Physics](https://www.jsap.or.jp/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [The Japan Society of Applied Physics Ionizing Radiation Division](https://annex.jsap.or.jp/radiation/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
