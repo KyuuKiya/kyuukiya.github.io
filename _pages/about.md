@@ -44,11 +44,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experiences
+- Medical Physics Assistant, <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
 - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 
 # Publications 
 - **Conference Proceedings**
-  - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *Proceedings of the 38th Workshop on Radiation Detectors and Their Uses*, Submitted. (In Japanese)
+  - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *Radiation Detectors and Their Uses, KEK-Proceedings*, Submitted. (In Japanese)
 <div style='display: none'>
 <div class='paper-box'><div class='paper-box-image'><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div>
 <div class='paper-box-text' markdown="1">
@@ -112,6 +113,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Professional Memberships
+- [American Association of Physicists in Medicine](https://www.aapm.org/) (Associate-Student Member), *<font color="#808080">2024 - Now</font>*
 - [European Federation of Organisations for Medical Physics](https://www.efomp.org/) (Individual Associate Member), *<font color="#808080">2024 - Now</font>*
 - [Institute of Electrical and Electronics Engineers](https://www.ieee.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
@@ -119,6 +121,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - [Japan Society of Medical Physics](https://www.jsmp.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japan Society of Applied Physics](https://www.jsap.or.jp/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [JSAP Ionizing Radiation Division](https://annex.jsap.or.jp/radiation/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [Osaka University Engineering Society](https://www.osaka-u.info/) (Life Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
