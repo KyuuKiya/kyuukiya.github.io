@@ -79,8 +79,8 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 <div class='paper-box-text' markdown="1">
 - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
   - *2024.04 - Now*
-  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University & Gunma University Heavy Ion Medical Center
-  - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt γ-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Gunma University Heavy Ion Medical Center
+  - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/monitor.png' alt="sym" height="400" width="600"></div>
