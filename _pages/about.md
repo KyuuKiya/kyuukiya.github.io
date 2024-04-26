@@ -75,6 +75,14 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 
 # Projects
+<div class='paper-box'><div class='paper-box-image'><img src='images/500x300.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box-text' markdown="1">
+- **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
+  - *2024.04 - Now*
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University & Gunma University Heavy Ion Medical Center
+  - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt γ-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident γ-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt γ-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/neutron_monitor.JPG' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Development of Real-time Absolute Epi-thermal Neutron Flux Intensity Monitor for Boron Neutron Capture Therapy**
@@ -109,7 +117,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Training Certifications**
   - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [[Image](https://kyuukiya.github.io/images/geant4_med_certificate.jpg)]
   - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
-  - 放射線防護のための管理・計測コース, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
+  - Management and Measurement Course for Radiation Protection, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Professional Memberships
