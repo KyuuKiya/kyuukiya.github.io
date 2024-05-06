@@ -127,17 +127,18 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [IEEE Nuclear and Plasma Sciences Society](http://www.ieee-npss.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 - [Japan Society of Medical Physics](https://www.jsmp.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
+- [The Japanese College of Medical Physics](https://jcmp.or.jp/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japan Society of Applied Physics](https://www.jsap.or.jp/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [JSAP Ionizing Radiation Division](https://annex.jsap.or.jp/radiation/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 - [Osaka University Engineering Society](https://www.osaka-u.info/) (Life Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
-- **Languages**: Chinese (Native), Japanese (Native), English (Proficient)
+- **Languages**: Chinese (Native), Japanese (Bilingual), English (Proficient)
 - **Programming Languages**: Python, MATLAB, C++, Java
 - **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA
 - **Laboratory Skills**: Oscilloscope, Radiation Detectors
 
 # Access Information
-Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Suita Campus, Osaka University<br>
-2-1 Yamadaoka, Suita, Osaka, Japan<br>
+Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University<br>
+2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
  <br>
