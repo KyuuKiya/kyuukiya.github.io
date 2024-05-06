@@ -149,7 +149,7 @@ function initialize()
 {
     var mapProp = {
         center:new google.maps.LatLng(34.82222525542204, 135.52451051216215),
-        zoom:5,
+        zoom:15,
         mapTypeId:google.maps.MapTypeId.ROADMAP
     };
     var map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
@@ -157,6 +157,7 @@ function initialize()
 google.maps.event.addDomListener(window, 'load', initialize);
 </script>
 </head>
+<body>
 <div id="googleMap" style="width:500px;height:380px;"></div>
 </body>
 </html>
