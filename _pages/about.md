@@ -146,6 +146,7 @@ Division of Sustainable Energy and Environmental Engineering, Graduate School of
   height="450"
   style="border:0"
   loading="lazy"
+  align="middle"
   allowfullscreen
   referrerpolicy="no-referrer-when-downgrade"
   src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCg7WMfMpu_xgAtEe0CmIisCG_EFvrXGWo
