@@ -141,4 +141,24 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 # Access Information
 Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
- <br>
+<head>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCg7WMfMpu_xgAtEe0CmIisCG_EFvrXGWo&callback=initMap" async defer></script>
+<script>
+function initialize()
+{
+    var mapProp = {
+        center:new google.maps.LatLng(34.82222525542204, 135.52451051216215),
+        zoom:5,
+        mapTypeId:google.maps.MapTypeId.ROADMAP
+    };
+    var map=new google.maps.Map(document.getElementById("googleMap"), mapProp);
+}
+ 
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+</head>
+ 
+<body>
+<div id="googleMap" style="width:500px;height:380px;"></div>
+</body>
+<br>
