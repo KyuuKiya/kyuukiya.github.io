@@ -105,7 +105,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 
 # Teaching Experience
-- Science and Technical English I (School of Engineering, Osaka University), *<font color="#808080">2024</font>*
+- Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
 - Exercise II in Energy Engineering (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2023</font>*
 
 # Certifications and Licenses
