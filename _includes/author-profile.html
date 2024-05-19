@@ -213,6 +213,9 @@
       {% if author.pubmed %}
         <a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i></a>
       {% endif %}
+      {% if author.clarivate %}
+        <a href="https://www.webofscience.com/wos/author/record/{{ author.clarivate }}"><i class="ai ai-clarivate-square ai-fw"></i></a>
+      {% endif %}
       {% if author.orcid %}
         <a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i></a>
       {% endif %}
