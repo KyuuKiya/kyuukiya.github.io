@@ -44,6 +44,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experiences
+- Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - Now</font>*
 - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
 - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 
