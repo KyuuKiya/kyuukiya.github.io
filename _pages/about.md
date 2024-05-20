@@ -101,9 +101,11 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 </div>
 </div>
 
-# Honors and Awards
-- Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024</font>* [[URL](https://www.sth.osaka-u.ac.jp/index.html)]
-- Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+# Achievements
+- Honors and Awards
+  - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- Scholarships and Fellowships
+  - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024</font>* [[URL](https://www.sth.osaka-u.ac.jp/index.html)]
 
 # Teaching Experience
 - Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
@@ -128,6 +130,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [IEEE Nuclear and Plasma Sciences Society](http://www.ieee-npss.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
 - [Japan Society of Medical Physics](https://www.jsmp.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
+- [Japanese Society for Quantum Medical Science](https://j-quams.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japanese College of Medical Physics](https://jcmp.or.jp/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japan Society of Applied Physics](https://www.jsap.or.jp/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [JSAP Ionizing Radiation Division](https://annex.jsap.or.jp/radiation/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
