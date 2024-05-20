@@ -102,9 +102,9 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 </div>
 
 # Achievements
-- Honors and Awards
+- **Honors and Awards**
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
-- Scholarships and Fellowships
+- **Scholarships and Fellowships**
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024</font>* [[URL](https://www.sth.osaka-u.ac.jp/index.html)]
 
 # Teaching Experience
