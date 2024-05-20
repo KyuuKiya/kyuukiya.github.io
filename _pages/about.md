@@ -25,9 +25,9 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # News
 - *2024.03*: Selected as a candidate of [Honors Program for Graduate Schools in Science, Engineering and Informatics](https://www.sth.osaka-u.ac.jp/index.html). 
-- *2024.01*: Made a oral presentation in [RD2024 (KEK)](https://www-conf.kek.jp/rdetconf/index.html). 
-- *2023.07*: Made a oral presentation in [JSNCT-19](https://www.jsnct19.jp/). 
-- *2022.11*: Made a poster presentation in [YBNCT-2022](https://isnct.net/ybnct2022/). 
+- *2024.01*: Made a oral presentation in [38th Workshop on Radiation Detectors and Their Uses](https://www-conf.kek.jp/rdetconf/index.html). 
+- *2023.07*: Made a oral presentation in [The 19th Congress on Neutron Capture Therapy](https://www.jsnct19.jp/). 
+- *2022.11*: Made a poster presentation in [Young Researchers’ BNCT Meeting 2022](https://isnct.net/ybnct2022/). 
 - *2022.04*: Started building the homepage. 
 
 # Educations
