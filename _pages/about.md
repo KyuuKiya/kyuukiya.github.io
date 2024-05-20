@@ -113,8 +113,8 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Certifications and Licenses
 - **Professional Qualifications**
-  - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>*, (Certification No. N1A430621A)
-  - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>*, (Certification No. N2A510830A)
+  - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>* [Certification No. N1A430621A]
+  - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>*, [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[Image](https://kyuukiya.github.io/images/crepe_certificate.jpg)][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
