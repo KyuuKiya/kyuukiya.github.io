@@ -97,7 +97,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Automated CT-based Modelling for the Localization and Characterization of Obstruction in Small Bowel Obstruction**
   - *2020.08 - 2021.06*
   - School of Biomedical Engineering, Faculty of Engineering, The University of Sydney
-  - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D CNN to perform volumetric segmentation of small bowel from CT data. 
+  - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D convolutional neural network to perform volumetric segmentation of small bowel from CT data. 
 </div>
 </div>
 
