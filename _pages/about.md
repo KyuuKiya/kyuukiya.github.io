@@ -24,19 +24,13 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
 # News
+- *2024.03*: Selected as a candidate of <a href="https://www.sth.osaka-u.ac.jp/index.html">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
+- *2024.01*: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. 
+- *2023.07*: Made a oral presentation in <a href="https://www.jsnct19.jp/">The 19th Congress on Neutron Capture Therapy</a>. 
 <details>
-  <summary>
-    <i>2024.03</i>: Selected as a candidate of <a href="https://www.sth.osaka-u.ac.jp/index.html">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. <br>
-    <i>2024.01</i>: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. <br>
-    <i>2023.07</i>: Made a oral presentation in <a href="https://www.jsnct19.jp/">The 19th Congress on Neutron Capture Therapy</a>. <br>
-    <div class="more">
-      <p>
-        <i>2022.11</i>: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. <br>
-        <i>2022.04</i>: Started building the homepage. <br>
-      </p>
-    </div>
-    <a><b>Click to View More</b></a>
-  </summary> 
+<summary><a>Click to View More</a></summary> 
+  - *2022.11*: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. 
+  - *2022.04*: Started building the homepage. 
 </details>
 
 # Educations
