@@ -24,7 +24,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
 # News
-- **<font color="#800000">*2024.06*: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>. </font>**
+- **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>.**
 - *2024.03*: Selected as a candidate of <a href="https://www.sth.osaka-u.ac.jp/index.html">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
 - *2024.01*: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. 
 <details>
@@ -116,7 +116,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
-    - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>*
+    - Grant-in-Aid (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>*
 
 # Teaching Experience
 - Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
