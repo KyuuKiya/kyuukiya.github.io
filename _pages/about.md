@@ -24,7 +24,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
 
 # News
-- *2024.06*: Selected as a sponsored PhD student of <a href="https://www.osaka-u.ac.jp/en/education/6luy72">JST SPRING</a>. 
+- **<font color="#800000">*2024.06*: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>. </font>**
 - *2024.03*: Selected as a candidate of <a href="https://www.sth.osaka-u.ac.jp/index.html">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
 - *2024.01*: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. 
 <details>
@@ -112,7 +112,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Honors and Awards**
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
-  - Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.jst.go.jp/jisedai/spring/index.html)]
+  - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation (SPRING), <font color="#800000">Japan Science and Technology Agency (JST)</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
