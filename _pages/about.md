@@ -116,7 +116,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
-    - **<u>Jiye Qiu</u>**, Grant-in-Aid (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, Grant Number JPMJSP2138, *<font color="#808080">2024.04 - 2027.03</font>*
+    - **<u>Jiye Qiu</u>**, Grant-in-Aid (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
 
 # Teaching Experience
 - Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
