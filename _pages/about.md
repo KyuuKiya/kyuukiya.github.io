@@ -112,11 +112,10 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Honors and Awards**
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
-  - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation (SPRING), <font color="#800000">Japan Science and Technology Agency (JST)</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
+  - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
-  - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
-    - **<u>Jiye Qiu</u>**, Grant-in-Aid (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
+  - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
 
 # Teaching Experience
 - Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
