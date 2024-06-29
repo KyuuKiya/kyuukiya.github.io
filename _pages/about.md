@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at Osaka University with a focus on prompt gamma-ray imaging for particle therapy. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at Osaka University sponsored by JST SPRING, with a focus on prompt gamma-ray imaging for particle therapy. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
@@ -25,7 +25,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # News
 - **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>.**
-- *2024.03*: Selected as a candidate of <a href="https://www.sth.osaka-u.ac.jp/index.html">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
+- *2024.03*: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
 - *2024.01*: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. 
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
