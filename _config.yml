@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Jiye Qiu"
-description              : "Master's Student at Osaka University"
+description              : "Doctoral Student studying nuclear science and energy engineering at Osaka University with a focus on prompt gamma-ray imaging for particle therapy."
 repository               : "KyuuKiya/kyuukiya.github.io"
 
 google_scholar_stats_use_cdn : true
@@ -28,7 +28,7 @@ author:
   location         : "Osaka, Japan"
   employer         :
   pubmed           : 
-  googlescholar    : 
+  googlescholar    : "https://scholar.google.com/citations?user=a3g_nRcAAAAJ"
   email            : 
   researchmap      : "jiye-qiu"
   uri              : "http://www.see.eng.osaka-u.ac.jp/seeqr/seeqr/"
@@ -47,6 +47,7 @@ author:
   lastfm           :
   linkedin         : "jiye-qiu-nb"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
+  clarivate        : "KBB-8326-2024"
   orcid            : "https://orcid.org/0009-0009-6400-9593"
   pinterest        :
   soundcloud       :
