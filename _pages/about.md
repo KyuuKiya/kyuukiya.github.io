@@ -81,7 +81,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 <div class='paper-box-text' markdown="1">
 - **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
   - *2024.10 - Now*
-  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Toyota Radiation Research Institute
   - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. A prototype BNCT-SPECT using GAGG scintillators has been fabricated with a theoretical accuracy of 4.4% and a spatial resolution of 5.1 mm. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
 </div>
 </div>
