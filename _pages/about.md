@@ -53,12 +53,15 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Completed a Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
-# Experiences
-- Research Assistant (Joint Research Project), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
-- Sponsored PhD Student (JST SPRING), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
-- Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
-- Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - 2024.08</font>*
-- Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
+# Experience
+- **Main Experience**
+  - Sponsored PhD Student (JST SPRING), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
+- **Research and Visiting**
+  - Research Assistant (Joint Research Project), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
+  - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - 2024.08</font>*
+  - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
+- **Internship and Part-time Work**
+  - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
 
 # Publications 
 - **Journal Articles**
@@ -95,7 +98,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/gantry.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
-- **Beam Optics Design of a Compact Static Gantry System with Multi-angle Irradiation for Carbon-ion Radiotherapy**
+- **Conceptual Design of a Compact Static Gantry System with Multi-angle Irradiation for Carbon-ion Radiotherapy**
   - *2024.05 - 2024.10*
   - Accelerator Research Division, Research Center for Nuclear Physics, Osaka University
   - Description: Due to the high magnetic rigidity of carbon ions, transporting therapeutic carbon-ion beams with high angular flexibility is more challenging than with lighter ions, such as protons. Recently, irradiation of carbon ions with flexible angular selections has been achieved through rotating gantry systems, but these require large mechanical frames to house a series of beam transport elements for rotation around the treatment couch. A static beam delivery system compatible with multiple irradiation angles is a promising alternative to the rotating gantry system, offering potential for miniaturization and cost reduction of carbon-ion radiotherapy facilities. This study proposes a compact static gantry system concept, using electromagnets arranged in a circular configuration around the treatment couch to enable multiple angular irradiations of therapeutic carbon-ion beams. 
