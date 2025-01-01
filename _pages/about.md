@@ -18,21 +18,22 @@ redirect_from:
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at Osaka University sponsored by JST SPRING, with a focus on prompt gamma-ray imaging for particle therapy. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
-日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照してください。
+日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- *2024.12*: Made a poster presentation in <a href="https://j-quams.org/meeting2024/index.html">The 4th Meeting of Japanese Society for Quantum Medical Science</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
 - *2024.09*: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>.
 - **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>.**
 - *2024.03*: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
-- *2024.01*: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. 
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
+    <li><i>2024.01</i>: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. </li>
     <li><i>2023.07</i>: Made a oral presentation in <a href="https://www.jsnct19.jp/">The 19th Congress on Neutron Capture Therapy</a>. </li>
     <li><i>2022.11</i>: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. </li>
     <li><i>2022.04</i>: Started building the homepage. </li>
@@ -49,7 +50,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
-  - Majored in Electrical Engineering
+  - Completed a Majored in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experiences
@@ -61,24 +62,43 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
-  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata, "[Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy](https://doi.org/10.1016/j.radmeas.2024.107308)", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
+  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, *Isao Murata*, "[Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy](https://doi.org/10.1016/j.radmeas.2024.107308)", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
 
 # Presentations 
 - **International Conferences**
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic Conferences**
+  - **<u>J. Qiu</u>**, M. Fukuda, S. Matsui, I. Murata, "Beam Optics Design of a Compact Static Gantry System for Fixed Multi-angle Heavy-ion Irradiation", *The 4th Meeting of Japanese Society for Quantum Medical Science*, National Institute of Radiological Sciences, National Institutes for Quantum Science and Technology, December 2024. (Poster) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
+- **Seminars and Talks**
+  - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship*, Suita Campus, Osaka University, December 2024. (In Japanese)
 
 
 # Projects
+<div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box-text' markdown="1">
+- **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
+  - *2024.10 - Now*
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University
+  - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. A prototype BNCT-SPECT using GAGG scintillators has been fabricated with a theoretical accuracy of 4.4% and a spatial resolution of 5.1 mm. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
+</div>
+</div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/compton.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
   - *2024.04 - Now*
-  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Gunma University Heavy Ion Medical Center
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Heavy Ion Medical Center, Gunma University
   - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gantry.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box-text' markdown="1">
+- **Beam Optics Design of a Compact Static Gantry System with Multi-angle Irradiation for Carbon-ion Radiotherapy**
+  - *2024.05 - 2024.10*
+  - Accelerator Research Division, Research Center for Nuclear Physics, Osaka University
+  - Description: Due to the high magnetic rigidity of carbon ions, transporting therapeutic carbon-ion beams with high angular flexibility is more challenging than with lighter ions, such as protons. Recently, irradiation of carbon ions with flexible angular selections has been achieved through rotating gantry systems, but these require large mechanical frames to house a series of beam transport elements for rotation around the treatment couch. A static beam delivery system compatible with multiple irradiation angles is a promising alternative to the rotating gantry system, offering potential for miniaturization and cost reduction of carbon-ion radiotherapy facilities. This study proposes a compact static gantry system concept, using electromagnets arranged in a circular configuration around the treatment couch to enable multiple angular irradiations of therapeutic carbon-ion beams. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/monitor.png' alt="sym" height="400" width="600"></div>
@@ -108,7 +128,6 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
 
 # Teaching Experience
-- Science and Technical English I (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2024</font>*
 - Exercise II in Energy Engineering (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2023</font>*
 
 # Certifications and Licenses
@@ -138,8 +157,8 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Bilingual), English (Proficient)
-- **Programming Languages**: Python, MATLAB, C++, Java
-- **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA
+- **Programming Languages**: Python, MATLAB, C++, Java, HTML
+- **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA, MAD-X, Anaconda
 - **Laboratory Skills**: Oscilloscope, Radiation Detectors
 
 # Access Information
