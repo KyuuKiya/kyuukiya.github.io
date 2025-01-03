@@ -50,22 +50,23 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Master's Thesis titled: "Development and Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique for Boron Neutron Capture Therapy" (In Japanese)
 - **Bachelor of Engineering (Honours Class I), Biomedical Engineering, The University of Sydney, <em>2017 - 2021</em>**
   - GPA: 3.55/4.00
-  - Completed a Majored in Electrical Engineering
+  - Completed a Major in Electrical Engineering
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experience
-- **Main Experience**
+- **Employment**
   - Sponsored PhD Student (JST SPRING), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
-- **Research and Visiting**
+- **Research Experience**
   - Research Assistant (Joint Research Project), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
-- **Internship and Part-time Work**
+- **Internships and Part-time Roles**
   - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
 
 # Publications 
 - **Journal Articles**
   - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, *Isao Murata*, "[Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy](https://doi.org/10.1016/j.radmeas.2024.107308)", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="bottom" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
+<p align="right">*<u>First Author</u>, <i>Corresponding Author</i></p>
 
 # Presentations 
 - **International Conferences**
@@ -77,7 +78,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 - **Seminars and Talks**
   - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship*, Suita Campus, Osaka University, December 2024. (In Japanese)
-
+<p align="right">*<u>Presenter</u></p>
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
