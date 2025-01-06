@@ -18,7 +18,7 @@ redirect_from:
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Quantum Reaction Engineering Laboratory, Quantum and Energy Engineering Area, Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
@@ -81,6 +81,16 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Suita Campus, Osaka University, Japan, December 2024. (In Japanese)
 <p style="font-size:12px" align="right"><font color="#808080">* <u>Presenter</u></font></p>
 
+# Achievements
+- **Honors and Awards**
+  - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+- **Scholarships and Fellowships**
+  - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
+  - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
+- **Grants**
+  - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
+<p style="font-size:12px" align="right"><font color="#808080">* <u>Main Recipient</u></font></p>
+
 # Projects
 <div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
@@ -122,16 +132,6 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D convolutional neural network to perform volumetric segmentation of small bowel from CT data. 
 </div>
 </div>
-
-# Achievements
-- **Honors and Awards**
-  - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
-- **Scholarships and Fellowships**
-  - Osaka University Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
-  - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
-- **Grants**
-  - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
-<p style="font-size:12px" align="right"><font color="#808080">* <u>Main Recipient</u></font></p>
 
 # Teaching Experience
 - Exercise II in Energy Engineering (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2023</font>*
