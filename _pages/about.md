@@ -78,7 +78,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 - **Seminars and Talks**
-  - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship*, Suita Campus, Osaka University, December 2024. (In Japanese)
+  - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Suita Campus, Osaka University, Japan, December 2024. (In Japanese)
 <p style="font-size:12px" align="right"><font color="#808080">* <u>Presenter</u></font></p>
 
 # Projects
@@ -87,7 +87,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
   - *2024.10 - Now*
   - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Toyota Radiation Research Institute
-  - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. A prototype BNCT-SPECT using GAGG scintillators has been fabricated with a theoretical accuracy of 4.4% and a spatial resolution of 5.1 mm. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
+  - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Recently, A prototype BNCT-SPECT using GAGG scintillators has been fabricated. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/compton.png' alt="sym" height="400" width="600"></div>
@@ -131,6 +131,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
+<p style="font-size:12px" align="right"><font color="#808080">* <u>Main Recipient</u></font></p>
 
 # Teaching Experience
 - Exercise II in Energy Engineering (School of Engineering, Osaka University), Teaching Assistant, *<font color="#808080">2023</font>*
