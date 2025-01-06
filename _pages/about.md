@@ -126,7 +126,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
-- **Automated CT-based Modelling for the Localization and Characterization of Obstruction in Small Bowel Obstruction**
+- **Automated CT-based Modeling for the Localization and Characterization of Obstruction in Small Bowel Obstruction**
   - *2020.08 - 2021.06*
   - School of Biomedical Engineering, Faculty of Engineering, The University of Sydney
   - Description: Small bowel obstruction is an abdominal disorder diagnosed using CT imaging. Image-based diagnosis is a complex task requiring a clinician to navigate through a stack of 2D slices representing the tortuous 3D small bowel. Our goal is to simplify this task by segmenting the bowel and generating high quality 3D models. 3D deep neural networks have the potential to perform segmentation efficiently and accurately. This research project focuses on investigating efficient ways to generate labelled segmentation data and developing a deep learning model based on 3D convolutional neural network to perform volumetric segmentation of small bowel from CT data. 
@@ -163,9 +163,11 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Bilingual), English (Proficient)
-- **Programming Languages**: Python, MATLAB, C++, Java, HTML
-- **Research Software**: PHITS, Geant4, 3D Slicer, ITK, DppMCA, MAD-X, Anaconda
-- **Laboratory Skills**: Oscilloscope, Radiation Detectors
+- **Coding and Programming**: Python, MATLAB, C++, Java, HTML, LaTeX
+- **Simulation and Modeling**: PHITS, Geant4, MAD-X, Opera-3D
+- **Medical Image Processing**: 3D Slicer, ITK
+- **Radiotherapy Treatment Planning**: RayStation, VQA
+- **Laboratory Skills**: Radiation Detectors, Oscilloscope, Spectrum Analysis (DppMCA)
 
 # Access Information
 Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University<br>
