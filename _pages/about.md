@@ -25,10 +25,11 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
 - *2024.12*: Made a poster presentation in <a href="https://j-quams.org/meeting2024/index.html">The 4th Meeting of Japanese Society for Quantum Medical Science</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
 - *2024.09*: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>.
-- **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING</a>.**
+- **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING Scholarship</a>.**
 - *2024.03*: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
@@ -55,7 +56,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Experience
 - **Main Employments**
-  - Sponsored PhD Student (JST SPRING), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
+  - PhD Student (JST SPRING Scholarship), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
 - **Research Roles**
   - Research Assistant (Joint Research Project), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - 2024.08</font>*
@@ -71,6 +72,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Presentations 
 - **International Conferences**
+  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Mirai Base in Tokai, Japan, February 2025. (Poster)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic Conferences**
@@ -162,7 +164,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - [Osaka University Engineering Society](https://www.osaka-u.info/) (Life Member), *<font color="#808080">2024 - Now</font>*
 
 # Skills
-- **Languages**: Chinese (Native), Japanese (Bilingual), English (Proficient)
+- **Languages**: Chinese (Native), Japanese (Fluent), English (Proficient)
 - **Coding and Programming**: Python, MATLAB, C++, Java, HTML, LaTeX
 - **Simulation and Modeling**: PHITS, Geant4, MAD-X, Opera-3D
 - **Medical Image Processing**: 3D Slicer, ITK
