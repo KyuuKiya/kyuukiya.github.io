@@ -58,11 +58,11 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Main Employments**
   - PhD Student (JST SPRING Scholarship), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - Now</font>*
 - **Research Roles**
-  - Research Assistant (Joint Research Project), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
+  - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University</font>, *<font color="#808080">2024.10 - Now</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, Osaka University</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, Osaka University</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 - **Internships and Part-time Roles**
-  - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - Now</font>*
+  - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - 2025.03</font>*
 
 # Publications 
 - **Journal Articles**
@@ -72,7 +72,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Presentations 
 - **International Conferences**
-  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Mirai Base in Tokai, Japan, February 2025. (Poster)
+  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Tokai Mirai Base, Japan, February 2025. (Poster)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic Conferences**
@@ -106,7 +106,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 <div class='paper-box-text' markdown="1">
 - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
   - *2024.04 - Now*
-  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University / Heavy Ion Medical Center, Gunma University
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, Osaka University
   - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
 </div>
 </div>
@@ -143,6 +143,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>* [Certification No. N1A430621A]
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>* [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (Osaka University)**
+  - Basic Techniques of Detection and Measurements for Fundamental Sciences, <font color="#800000">Graduate School of Science</font>, *<font color="#808080">2024.03</font>* [[Image](https://kyuukiya.github.io/images/measurement_certificate.jpg)]
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[Image](https://kyuukiya.github.io/images/crepe_certificate.jpg)][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
   - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [[Image](https://kyuukiya.github.io/images/geant4_med_certificate.jpg)]
