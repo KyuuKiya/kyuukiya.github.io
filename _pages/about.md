@@ -67,10 +67,10 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
-  - **<i><u>Jiye Qiu</u></i>**, *Mitsuhiro Fukuda*, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
-  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, *Isao Murata*, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
+  - **<u>Jiye Qiu*</u>**, Mitsuhiro Fukuda*, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
+  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata*, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
   <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
-<p style="font-size:12px" align="right"><font color="#808080">* <u>First Author</u>, <i>Corresponding Author</i></font></p>
+<p style="font-size:12px" align="right"><font color="#808080"><u>First Author</u>, Corresponding Author*</font></p>
 
 # Presentations 
 - **International Conferences**
@@ -83,7 +83,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 - **Seminars and Talks**
   - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Suita Campus, Osaka University, Japan, December 2024. (In Japanese)
-<p style="font-size:12px" align="right"><font color="#808080">* <u>Presenter</u></font></p>
+<p style="font-size:12px" align="right"><font color="#808080"><u>Presenter</u></font></p>
 
 # Achievements
 - **Honors and Awards**
@@ -93,7 +93,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">Osaka University</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (Osaka University Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
-<p style="font-size:12px" align="right"><font color="#808080">* <u>Main Recipient</u></font></p>
+<p style="font-size:12px" align="right"><font color="#808080"><u>Main Recipient</u></font></p>
 
 # Projects
 <div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
