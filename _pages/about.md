@@ -25,15 +25,16 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
 - *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
 - *2024.12*: Made a poster presentation in <a href="https://j-quams.org/meeting2024/index.html">The 4th Meeting of Japanese Society for Quantum Medical Science</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
 - *2024.09*: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>.
 - **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING Scholarship</a>.**
-- *2024.03*: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. 
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
+    <li><i>2024.03</i>: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. </li>
     <li><i>2024.01</i>: Made a oral presentation in <a href="https://www-conf.kek.jp/rdetconf/index.html">38th Workshop on Radiation Detectors and Their Uses</a>. </li>
     <li><i>2023.07</i>: Made a oral presentation in <a href="https://www.jsnct19.jp/">The 19th Congress on Neutron Capture Therapy</a>. </li>
     <li><i>2022.11</i>: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. </li>
@@ -66,6 +67,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
+  - **<u>*Jiye Qiu*</u>**, *Mitsuhiro Fukuda*, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
   - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, *Isao Murata*, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
   <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
 <p style="font-size:12px" align="right"><font color="#808080">* <u>First Author</u>, <i>Corresponding Author</i></font></p>
@@ -157,6 +159,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - [Institute of Electrical and Electronics Engineers](https://www.ieee.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [IEEE Engineering in Medicine and Biology Society](https://www.embs.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [IEEE Nuclear and Plasma Sciences Society](http://www.ieee-npss.org/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [Particle Therapy Co-Operative Group](https://www.ptcog.site/) (Registrated Member), *<font color="#808080">2024 - Now</font>*
 - [Japan Society of Medical Physics](https://www.jsmp.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [Japanese Society for Quantum Medical Science](https://j-quams.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japanese College of Medical Physics](https://jcmp.or.jp/) (Student Member), *<font color="#808080">2024 - Now</font>*
