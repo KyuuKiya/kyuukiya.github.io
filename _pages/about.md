@@ -67,10 +67,10 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
-  - **<u>Jiye Qiu&#42;</u>**, Mitsuhiro Fukuda&#42;, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
-  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata&#42;, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
+  - **<u>Jiye Qiu</u>**<code>*</code>, Mitsuhiro Fukuda<code>*</code>;, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
+  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata&<code>*</code>, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
   <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
-<p style="font-size:12px" align="right"><font color="#808080"><u>First Author</u>, Corresponding Author&#42;</font></p>
+<p style="font-size:12px" align="right"><font color="#808080"><u>First Author</u>, Corresponding Author<code>*</code></font></p>
 
 # Presentations 
 - **International Conferences**
