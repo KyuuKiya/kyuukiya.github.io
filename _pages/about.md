@@ -139,7 +139,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Exercise II in Energy Engineering (School of Engineering, The University of Osaka), *<font color="#808080">2023</font>*
 
 # Professional Activities
-- Supporter, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (Osaka University Icho Festival)*, *<font color="#808080">2023-2025</font>*
+- Supporter, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023-2025</font>*
 - Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022-2023</font>*
 
 # Certifications and Licenses
