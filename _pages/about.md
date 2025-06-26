@@ -18,13 +18,14 @@ redirect_from:
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Quantum Reaction Engineering Laboratory, Quantum and Energy Engineering Area, Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from Osaka University in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Graduate School of Engineering, The University of Osaka. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from the University of Osaka in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- *2025.06*: Made a oral presentation in <a href="https://conference-indico.kek.jp/event/293/overview">AFAD2025 (Asian Forum for Accelerators and Detectors)</a>.
 - **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
 - *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
@@ -71,6 +72,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Presentations 
 - **International Conferences**
+  - **<u>J. Qiu</u>**, M. Fukuda, S. Matsui, "Ion Optical Design Technique of a Static Gantry System for Carbon-ion Radiotherapy using Genetic Algorithm", *AFAD2025 (Asian Forum for Accelerators and Detectors)*, Aobayama Campus, Tohoku University, Japan, June 2025. (Oral)
   - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Tokai Mirai Base, Japan, February 2025. (Poster)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
@@ -79,6 +81,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 - **Seminars and Talks**
+  - **<u>J. Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", *2025 Mixing Presentation A, Next Generation Researcher Development Project*, Online, June 2025. (In Japanese)
   - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Suita Campus, The University of Osaka, Japan, December 2024. (In Japanese)
 <p style="font-size:12px" align="right"><font color="#808080"><u>Presenter</u></font></p>
 
@@ -139,8 +142,9 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Exercise II in Energy Engineering (School of Engineering, The University of Osaka), *<font color="#808080">2023</font>*
 
 # Professional Activities
+- Session Chair, "Mixing Presentation A (The University of Osaka Next Generation Researcher Development Project)", *<font color="#808080">2025</font>*
 - Supporter, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023-2025</font>*
-- Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022-2023</font>*
+- Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022-2024</font>*
 
 # Certifications and Licenses
 - **Professional Qualifications**
