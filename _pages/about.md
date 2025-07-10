@@ -18,7 +18,7 @@ redirect_from:
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Graduate School of Engineering, The University of Osaka. Sponsored by Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency (JST SPRING). Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from the University of Osaka in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
+Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Graduate School of Engineering, The University of Osaka. Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from the University of Osaka in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
@@ -30,7 +30,6 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
 - *2024.09*: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>.
-- **<em>2024.06</em>: Selected as a sponsored PhD student of <a href="https://www.jst.go.jp/jisedai/spring/en/index.html">JST SPRING Scholarship</a>.**
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
@@ -55,7 +54,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Experience
 - **Main Employments**
-  - PhD Student (JST SPRING Scholarship), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - Now</font>*
+  - PhD Student, <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.04 - Now</font>*
 - **Research Roles**
   - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.10 - Now</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
@@ -89,7 +88,6 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Honors and Awards**
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
-  - The University of Osaka Next Generation Researcher Development Project, Support for Pioneering Research Initiated by the Next Generation, <font color="#800000">Japan Science and Technology Agency</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/6luy72)]
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Grants**
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (The University of Osaka Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
