@@ -25,14 +25,15 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
 - *2025.06*: Made a oral presentation in <a href="https://conference-indico.kek.jp/event/293/overview">AFAD2025 (Asian Forum for Accelerators and Detectors)</a>.
 - **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
 - *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
 - **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
-- *2024.09*: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>.
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
+    <li><i>2024.09</i>: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>. </li>
     <li><i>2024.03</i>: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. </li>
     <li><i>2022.11</i>: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. </li>
     <li><i>2022.04</i>: Started building the homepage. </li>
@@ -64,8 +65,9 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
+  - **<u>Jiye Qiu</u>**, Makoto Sakai&#42;, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka, Isao Murata&#42;, "Comprehensive design study of the Si/TlBr semiconductor-based Compton camera for 478 keV prompt gamma-ray imaging in boron neutron capture therapy", *Japanese Journal of Applied Physics*, vol. 64, no. 9, p. 097001, September 2025. doi: [10.35848/1347-4065/ae02d5](https://doi.org/10.35848/1347-4065/ae02d5)
   - **<u>Jiye Qiu</u>**&#42;, Mitsuhiro Fukuda&#42;, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
-  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata&#42;, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, Nov. 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
+  - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata&#42;, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, November 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
   <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
 <p style="font-size:12px" align="right"><font color="#808080"><u>First Author</u>, Corresponding Author&#42;</font></p>
 
@@ -76,6 +78,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic Conferences**
+  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Basic design of Compton camera used for prompt gamma-ray imaging in boron neutron capture therapy", *The 86th JSAP Autumn Meeting*, Tempaku Campus, Meijo University, Japan, September 2025. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, M. Fukuda, S. Matsui, I. Murata, "Beam Optics Design of a Compact Static Gantry System for Fixed Multi-angle Heavy-ion Irradiation", *The 4th Meeting of Japanese Society for Quantum Medical Science*, National Institute of Radiological Sciences, National Institutes for Quantum Science and Technology, Japan, December 2024. (Poster) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, D. Hatano, Z. Qiao, S. Tamaki, S. Kusaka, I. Murata, "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
