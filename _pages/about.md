@@ -89,11 +89,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Achievements
 - **Honors and Awards**
-  - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), 2025 Mixing Presentation Session Chair, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.07</font>*
-  - Travel Support, PHITS Workshop at JAEA 2025, <font color="#800000">Japan Atomic Energy Agency</font>, *<font color="#808080">2025.02</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
+- **Research Support**
+  - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), 2025 Mixing Presentation Session Chair, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.07</font>*
+  - Travel Support, PHITS Workshop at JAEA 2025, <font color="#800000">Japan Atomic Energy Agency</font>, *<font color="#808080">2025.02</font>*
 - **Grants**
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (The University of Osaka Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
 <p style="font-size:12px" align="right"><font color="#808080"><u>Main Recipient</u></font></p>
