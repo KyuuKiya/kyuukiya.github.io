@@ -25,6 +25,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- ***2025.10*: Passed Senior Radiation Safety Specialist Examination (第1種放射線取扱主任者試験).**
 - **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
 - *2025.06*: Made a oral presentation in <a href="https://conference-indico.kek.jp/event/293/overview">AFAD2025 (Asian Forum for Accelerators and Detectors)</a>.
 - **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
@@ -54,13 +55,14 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Achieved High Distinction in the Honours Thesis titled: "Volumetric CT Small Bowel Segmentation using Deep Learning" [[Code](https://github.com/KyuuKiya/Honours-Thesis-Project)]
 
 # Experience
-- **Main Employments**
+- **Main Experience**
   - PhD Student, <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.04 - Now</font>*
-- **Research Roles**
-  - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.10 - Now</font>*
+- **Complementary Research Experience**
+  - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.10 - 2026.03</font>*
+  - Intern, <font color="#800000">Research Teams for Science of Computing, Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, The University of Osaka</font>, *<font color="#808080">2021.10 - 2022.03</font>*
-- **Internships and Part-time Roles**
+- **Internships and Part-time Experience**
   - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - 2025.03</font>*
 
 # Publications 
@@ -89,10 +91,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Achievements
 - **Honors and Awards**
+  - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society </font>, *<font color="#808080">2025.07</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Research Support**
+  - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), Article Processing Charge Support, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.10</font>*
   - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), 2025 Mixing Presentation Session Chair, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.07</font>*
   - Travel Support, PHITS Workshop at JAEA 2025, <font color="#800000">Japan Atomic Energy Agency</font>, *<font color="#808080">2025.02</font>*
 - **Grants**
@@ -147,11 +151,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Professional Activities
 - Session Chair, *Mixing Presentation A (The University of Osaka Next Generation Researcher Development Project)*, *<font color="#808080">2025</font>*
-- Supporter, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023-2025</font>*
+- Assistant, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023-2025</font>*
 - Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022-2024</font>*
 
 # Certifications and Licenses
 - **Professional Qualifications**
+  - Senior Radiation Safety Specialist Examination, <font color="#800000">Nuclear Safety Technology Center</font>, *<font color="#808080">2025.10</font>* 
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>* [Certification No. N1A430621A]
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>* [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (The University of Osaka)**
