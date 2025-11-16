@@ -25,15 +25,16 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- *2025.11*: Made a poster presentation in <a href="https://nssmic.ieee.org/2025/">2025 IEEE NSS/MIC/RTSD</a>.
 - ***2025.10*: Passed Senior Radiation Safety Specialist Examination (第1種放射線取扱主任者試験).**
 - **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
 - *2025.06*: Made a oral presentation in <a href="https://conference-indico.kek.jp/event/293/overview">AFAD2025 (Asian Forum for Accelerators and Detectors)</a>.
 - **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
-- *2025.02*: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>.
-- **<font color="#FF000"><em>2024.10</em>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>.</font>**
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
+    <li><i>2025.02</i>: Made a poster presentation in <a href="https://phits.jaea.go.jp/workshop2025.html">PHITS Workshop at JAEA 2025</a>. </li>
+    <li><i>2024.10</i>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>. </li>
     <li><i>2024.09</i>: Made a poster presentation in <a href="https://www.jkmp2024.com">The 10th Japan-Korea Joint Meeting on Medical Physics</a>. </li>
     <li><i>2024.03</i>: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. </li>
     <li><i>2022.11</i>: Made a poster presentation in <a href="https://isnct.net/ybnct2022/">Young Researchers’ BNCT Meeting 2022</a>. </li>
@@ -76,11 +77,13 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Presentations 
 - **International Conferences**
+  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of a Si/TlBr Semiconductor-based Compton Camera for Prompt Gamma-ray Imaging in Boron Neutron Capture Therapy", *IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium*, Pacifico Yokohama North, Japan, November 2025. (Poster)
   - **<u>J. Qiu</u>**, M. Fukuda, S. Matsui, "Ion Optical Design Technique of a Static Gantry System for Carbon-ion Radiotherapy using Genetic Algorithm", *AFAD2025 (Asian Forum for Accelerators and Detectors)*, Aobayama Campus, Tohoku University, Japan, June 2025. (Oral)
   - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Tokai Mirai Base, Japan, February 2025. (Poster)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
   - **<u>J. Qiu</u>**, D. Hatano, S. Tamaki, S. Kusaka, I. Murata, "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](https://kyuukiya.github.io/images/Jiye_Qiu_PosterCertificate.png)]
 - **Domestic Conferences**
+  - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Compton Camera Image Denoising using Deep Learning-based Event Selection - Application to BNCT Prompt Gamma-ray Imaging -", *The 5th Meeting of Japanese Society for Quantum Medical Science*, Hospital Campus, Kyushu University, Japan, November 2025. (Poster) (In Japanese)
   - **<u>J. Qiu</u>**, M. Sakai, N. Voulgaris, S. Tamaki, S. Kusaka, I. Murata, "Basic design of Compton camera used for prompt gamma-ray imaging in boron neutron capture therapy", *The 86th JSAP Autumn Meeting*, Tempaku Campus, Meijo University, Japan, September 2025. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, M. Fukuda, S. Matsui, I. Murata, "Beam Optics Design of a Compact Static Gantry System for Fixed Multi-angle Heavy-ion Irradiation", *The 4th Meeting of Japanese Society for Quantum Medical Science*, National Institute of Radiological Sciences, National Institutes for Quantum Science and Technology, Japan, December 2024. (Poster) (In Japanese)
   - **<u>J. Qiu</u>**, Y. Ge, N. Voulgaris, K. Sagara, D. Hatano, S. Tamaki, S. Kusaka, T. Takata, I. Murata, "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
@@ -92,7 +95,8 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Achievements
 - **Honors and Awards**
-  - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society </font>, *<font color="#808080">2025.07</font>*
+  - Excellent Presentation Award (Physics), The 5th Meeting of Japanese Society for Quantum Medical Science, <font color="#800000">Japanese Society for Quantum Medical Science</font>, *<font color="#808080">2025.11</font>*
+  - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.07</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
 - **Scholarships and Fellowships**
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
@@ -105,20 +109,20 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 <p style="font-size:12px" align="right"><font color="#808080"><u>Main Recipient</u></font></p>
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
-<div class='paper-box-text' markdown="1">
-- **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
-  - *2024.10 - Now*
-  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka / Toyota Radiation Research Institute
-  - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Recently, A prototype BNCT-SPECT using GAGG scintillators has been fabricated. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
-</div>
-</div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/compton.png' alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
   - *2024.04 - Now*
   - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka
   - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
+</div>
+</div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box-text' markdown="1">
+- **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
+  - *2024.10 - 2026.03*
+  - Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka / Toyota Radiation Research Institute
+  - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Recently, A prototype BNCT-SPECT using GAGG scintillators has been fabricated. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
 </div>
 </div>
 <div class='paper-box'><div class='paper-box-image'><img src='images/gantry.png' alt="sym" height="400" width="600"></div>
@@ -164,6 +168,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Basic Techniques of Detection and Measurements for Fundamental Sciences, <font color="#800000">Graduate School of Science</font>, *<font color="#808080">2025.03</font>* [[Image](https://kyuukiya.github.io/images/measurement_certificate.jpg)]
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[Image](https://kyuukiya.github.io/images/crepe_certificate.jpg)][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
+  - IEEE MIC Short Course: AI for image reconstruction and processing, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.11</font>* [[Image](https://kyuukiya.github.io/images/2025IEEENSSMICRTSD_certificate.jpg)]
   - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [[Image](https://kyuukiya.github.io/images/geant4_med_certificate.jpg)]
   - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [[Image](https://kyuukiya.github.io/images/itccir_certificate.jpg)]
   - Management and Measurement Course for Radiation Protection, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](https://kyuukiya.github.io/images/radiation_certificate_1.jpg)]
