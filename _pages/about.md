@@ -60,7 +60,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - PhD Student, <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.04 - Now</font>*
 - **Complementary Research Experience**
   - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.10 - 2026.03</font>*
-  - Intern, <font color="#800000">Research Teams for Science of Computing, Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
+  - Computational Science Intern, <font color="#800000">Research Teams for Science of Computing, Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, The University of Osaka</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 - **Internships and Part-time Experience**
@@ -95,9 +95,9 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Achievements
 - **Honors and Awards**
-  - Excellent Presentation Award (Physics), The 5th Meeting of Japanese Society for Quantum Medical Science, <font color="#800000">Japanese Society for Quantum Medical Science</font>, *<font color="#808080">2025.11</font>*
+  - Excellent Presentation Award (Physics), The 5th Meeting of Japanese Society for Quantum Medical Science, <font color="#800000">Japanese Society for Quantum Medical Science</font>, *<font color="#808080">2025.11</font>* [[Image](https://kyuukiya.github.io/images/award_jquam2025.jpg)]
   - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.07</font>*
-  - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>* [[URL](https://www.sydney.edu.au/about-us/our-story/prizes-and-honour-roll.html)]
+  - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>*
 - **Scholarships and Fellowships**
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Research Support**
@@ -156,12 +156,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Professional Activities
 - Session Chair, *Mixing Presentation A (The University of Osaka Next Generation Researcher Development Project)*, *<font color="#808080">2025</font>*
-- Assistant, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023-2025</font>*
-- Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022-2024</font>*
+- Assistant, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023 - 2025</font>*
+- Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022 - 2024</font>*
 
 # Certifications and Licenses
 - **Professional Qualifications**
-  - Senior Radiation Safety Specialist Examination, <font color="#800000">Nuclear Safety Technology Center</font>, *<font color="#808080">2025.10</font>* 
+  - Senior Radiation Safety Specialist Examination, <font color="#800000">Nuclear Safety Technology Center</font>, *<font color="#808080">2025.11</font>* [Certification No. 1-34753]
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>* [Certification No. N1A430621A]
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>* [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (The University of Osaka)**
