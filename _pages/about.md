@@ -63,7 +63,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, The University of Osaka</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 - **Internships and Part-time Experience**
-  - Computational Science Intern, <font color="#800000">Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
+  - Computational Science Intern, <font color="#800000">Research Teams, Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
   - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - 2025.03</font>*
 
 # Publications 
