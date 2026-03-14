@@ -18,7 +18,6 @@ redirect_from:
 <script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
 <span class='anchor' id='about-me'></span>
 # About Me
-Jiye Qiu (邱 季野 / キュウ キヤ) is a doctoral student studying nuclear science and energy engineering at the Graduate School of Engineering, The University of Osaka. Research focus includes prompt gamma-ray imaging for boron neutron capture therapy, with broader interests in medical physics. Obtained Master of Engineering degree in nuclear science and energy engineering from the University of Osaka in 2024, and Bachelor of Engineering degree in biomedical engineering from the University of Sydney with first class honours in 2021. <br>
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
  <br>
@@ -63,6 +62,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
   - Research Student, <font color="#800000">Department of Sustainable Energy and Environmental Engineering, School of Engineering, The University of Osaka</font>, *<font color="#808080">2021.10 - 2022.03</font>*
 - **Internships and Part-time Experience**
+  - Medical Physics Intern, <font color="#800000">Radiation Safety and Quality Assurance Division, National Cancer Center Hospital, National Cancer Center Japan</font>, *<font color="#808080">2026.02 - 2026.02</font>*
   - Computational Science Intern, <font color="#800000">Research Teams, Center for Computational Science, RIKEN</font>, *<font color="#808080">2025.09 - 2025.10</font>*
   - Medical Physics Assistant (Part-time), <font color="#800000">Department of Medical Physics, Osaka Heavy Ion Therapy Center</font>, *<font color="#808080">2024.04 - 2025.03</font>*
 
@@ -155,6 +155,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Exercise II in Energy Engineering (School of Engineering, The University of Osaka), *<font color="#808080">2023</font>*
 
 # Professional Activities
+- Student Executive Committee, *The University of Osaka Honors Program for Graduate Schools in Science, Engineering and Informatics*, *<font color="#808080">2025 - 2026</font>*
 - Session Chair, *Mixing Presentation A (The University of Osaka Next Generation Researcher Development Project)*, *<font color="#808080">2025</font>*
 - Assistant, *Public open of the Strong 14 MeV neutron engineering experimental device "OKTAVIAN" (The University of Osaka Icho Festival)*, *<font color="#808080">2023 - 2025</font>*
 - Student Research Mentor, *Exercise II in Energy Engineering (School of Engineering, The University of Osaka)*, *<font color="#808080">2022 - 2024</font>*
@@ -193,7 +194,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Coding and Programming**: Python, MATLAB, C++, Java, HTML, LaTeX
 - **Simulation and Modeling**: PHITS, Geant4, MAD-X, Opera-3D
 - **Medical Image Processing**: 3D Slicer, ITK
-- **Radiotherapy Treatment Planning**: RayStation, VQA
+- **Radiotherapy Treatment Planning**: RayStation, Eclipse
 - **Laboratory Skills**: Radiation Detectors, Oscilloscope, Spectrum Analysis (DppMCA)
 
 # Access Information
