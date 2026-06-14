@@ -206,6 +206,22 @@ Division of Sustainable Energy and Environmental Engineering, Graduate School of
     &q=place_id:ChIJU6aW22D7AGAR78nHantxhPU&zoom=13">
 </iframe>
 
+<div id="viewer" style="
+display:none;
+position:fixed;
+inset:0;
+background:rgba(0,0,0,0.8);
+">
+    <div id="viewer-img" style="
+    width:100%;
+    height:100%;
+    background-size:contain;
+    background-repeat:no-repeat;
+    background-position:center;
+    ">
+    </div>
+</div>
+
 <script>
 const viewer = document.getElementById("viewer");
 const viewerImg = document.getElementById("viewer-img");
