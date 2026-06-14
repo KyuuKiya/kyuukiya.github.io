@@ -186,6 +186,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - [Japanese Society for Quantum Medical Science](https://j-quams.org/) (Student Member), *<font color="#808080">2024 - Now</font>*
 - [The Japan Society of Applied Physics](https://www.jsap.or.jp/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
   - [JSAP Ionizing Radiation Division](https://annex.jsap.or.jp/radiation/) (Graduate Student Member), *<font color="#808080">2024 - Now</font>*
+- [Institute of Physics and Engineering in Medicine](https://www.ipem.ac.uk/) (Affiliate Member), *<font color="#808080">2026 - Now</font>*
 
 # Skills
 - **Languages**: Chinese (Native), Japanese (Fluent), English (Proficient)
