@@ -106,7 +106,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 <p style="font-size:12px" align="right"><font color="#808080"><u>Main Recipient</u></font></p>
 
 # Projects
-<div class='paper-box'><div class='paper-box-image'><img src='images/compton.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/compton.png' oncontextmenu="return false;" draggable="false" alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy**
   - *2024.04 - Now*
@@ -114,7 +114,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Description: In boron neutron capture therapy (BNCT), it is necessary to know the difficult-to-determine boron concentration and neutron fluence for in-vivo dose evaluation. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Compton cameras utilize incident gamma-rays which are Compton scattered in a scatterer detector followed by their photoelectric absorption by an absorber detector. Thus, we are developing a novel compton camera that can measure the 478 keV prompt gamma-rays precisely in high intensity neutron irradiation field for clinical BNCT. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/spect.png' oncontextmenu="return false;" draggable="false" alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Monte Carlo Study and Image Reconstruction of a prototype SPECT using GAGG scintillators for Boron Neutron Capture Therapy**
   - *2024.10 - 2026.03*
@@ -122,7 +122,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Description: In boron neutron capture therapy (BNCT), the real-time measurement of local boron dose is required. To address this problem, the measurement of 478 keV prompt gamma-rays from boron neutron capture reactions has been proposed. Recently, A prototype BNCT-SPECT using GAGG scintillators has been fabricated. Thus, we are conducting Monte Carlo study and image reconstruction specialized for this prototype BNCT-SPECT, before performing experimental evaluation using therapeutic neutron beam. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/gantry.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/gantry.png' oncontextmenu="return false;" draggable="false" alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Conceptual Design of a Compact Static Gantry System with Multi-angle Irradiation for Carbon-ion Radiotherapy**
   - *2024.05 - 2024.10*
@@ -130,7 +130,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Description: Due to the high magnetic rigidity of carbon ions, transporting therapeutic carbon-ion beams with high angular flexibility is more challenging than with lighter ions, such as protons. Recently, irradiation of carbon ions with flexible angular selections has been achieved through rotating gantry systems, but these require large mechanical frames to house a series of beam transport elements for rotation around the treatment couch. A static beam delivery system compatible with multiple irradiation angles is a promising alternative to the rotating gantry system, offering potential for miniaturization and cost reduction of carbon-ion radiotherapy facilities. This study proposes a compact static gantry system concept, using electromagnets arranged in a circular configuration around the treatment couch to enable multiple angular irradiations of therapeutic carbon-ion beams. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/monitor.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/monitor.png' oncontextmenu="return false;" draggable="false" alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Development of Real-time Absolute Epi-thermal Neutron Flux Intensity Monitor for Boron Neutron Capture Therapy**
   - *2021.10 - 2024.03*
@@ -138,7 +138,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Description: In boron neutron capture therapy (BNCT), epi-thermal neutron irradiation is carried out to treat deep-seated cancers, as epi-thermal neutrons can be slowed down in a human body and converted into thermal neutrons before reaching the tumor. Since the number of irradiated epi-thermal neutrons determines the therapeutic effect, it is significantly required to measure the epi-thermal neutron intensity during the irradiation. Thus, we have been developing a novel monitor to measure the absolute epi-thermal neutron flux intensity on the body surface of a patient in real-time during BNCT treatment. 
 </div>
 </div>
-<div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' alt="sym" height="400" width="600"></div>
+<div class='paper-box'><div class='paper-box-image'><img src='images/bowel_model.png' oncontextmenu="return false;" draggable="false" alt="sym" height="400" width="600"></div>
 <div class='paper-box-text' markdown="1">
 - **Automated CT-based Modeling for the Localization and Characterization of Obstruction in Small Bowel Obstruction**
   - *2020.08 - 2021.06*
