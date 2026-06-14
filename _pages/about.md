@@ -24,7 +24,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
-- ***2026.04*: Be selected as a JSPS Research Fellow.**
+- ***2026.04*: Selected as a JSPS Research Fellow.**
 - ***2025.10*: Passed Senior Radiation Safety Specialist Examination (第1種放射線取扱主任者試験).**
 - **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
 <details>
