@@ -24,14 +24,14 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- ***2026.04*: Be selected as a JSPS Research Fellow.**
 - ***2025.10*: Passed Senior Radiation Safety Specialist Examination (第1種放射線取扱主任者試験).**
 - **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
-- **<font color="#FF000"><em>2025.05</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>.</font>**
 <details>
 <summary><a><b>Click to View More</b></a></summary> 
   <ul>
+    <li><i>2025.05</i>: Published a first-authored article in <a href="https://doi.org/10.1088/1748-0221/20/05/P05012">Journal of Instrumentation</a>. </li>
     <li><i>2024.10</i>: Published a first-authored article in <a href="https://doi.org/10.1016/j.radmeas.2024.107308">Radiation Measurements</a>. </li>
-    <li><i>2024.03</i>: Selected as a candidate of <a href="https://www.osaka-u.ac.jp/en/education/HonorsProgram">Honors Program for Graduate Schools in Science, Engineering and Informatics</a>. </li>
     <li><i>2022.04</i>: Started building the homepage. </li>
   </ul>
 </details>
@@ -51,7 +51,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Experience
 - **Main Experience**
-  - PhD Student, <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.04 - Now</font>*
+  - JSPS Doctoral Course Research Fellow, <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2026.04 - 2027.03</font>*
 - **Complementary Research Experience**
   - Research Assistant (Joint Research Project with *Toyota Radiation Research Institute*), <font color="#800000">Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka</font>, *<font color="#808080">2024.10 - 2026.03</font>*
   - Laboratory Rotation Student, <font color="#800000">Accelerator Research Division, Research Center for Nuclear Physics, The University of Osaka</font>, *<font color="#808080">2024.05 - 2024.08</font>*
@@ -86,6 +86,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, et al., "Experimental Verification of a Real-time Epi-thermal Neutron Absolute Flux Intensity Measurement Technique using BNCT Therapeutic Neutron Field", *38th Workshop on Radiation Detectors and Their Uses*, Tsukuba Campus, High Energy Accelerator Research Organization (KEK), Japan, January 2024. (Oral) (In Japanese)
   - **<u>J. Qiu</u>**, et al., "Experimental Study and Characterization of Neutron Scintillators containing Li-6 and B-10 for Neutron Detection in BNCT", *The 19th Congress on Neutron Capture Therapy*, Yokohama Symposia, Japan, July 2023. (Oral) (In Japanese)
 - **Seminars and Talks**
+  - **<u>J. Qiu</u>**, "Applications and Implementations of High Performance Computing Techniques for Scientific Computations", *2026 Seminar on Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Toyonaka Campus, The University of Osaka, Japan, April 2026. (In Japanese)
   - **<u>J. Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", *2025 Mixing Presentation A, Next Generation Researcher Development Project*, Online, June 2025. (In Japanese)
   - **<u>J. Qiu</u>**, "Beam Transport Study of a Compact Multi-angle Irradiation System for Heavy-ion Radiotherapy", *2024 Joint Seminar on Laboratory Rotation and Internship, Honors Program for Graduate Schools in Science, Engineering and Informatics*, Suita Campus, The University of Osaka, Japan, December 2024. (In Japanese)
 <p style="font-size:12px" align="right"><font color="#808080"><u>Presenter</u></font></p>
@@ -96,12 +97,14 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.07</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>*
 - **Scholarships and Fellowships**
+  - Research Fellowships for Young Scientists DC2 (Engineering Sciences), <font color="#800000">Japan Society for the Promotion of Science</font>, *<font color="#808080">2026.04 - 2027.03</font>* [[URL](https://www.jsps.go.jp/english)]
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Research Support**
   - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), Article Processing Charge Support, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.10</font>*
   - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), 2025 Mixing Presentation Session Chair, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.07</font>*
   - Travel Support, PHITS Workshop at JAEA 2025, <font color="#800000">Japan Atomic Energy Agency</font>, *<font color="#808080">2025.02</font>*
 - **Grants**
+  - **<u>Jiye Qiu</u>**, "Establishing a Novel Compton Camera for Real-time Dosimetry in Boron Neutron Capture Therapy", Grant-in-Aid for JSPS Fellows, Grants-in-Aid for Scientific Research, Japan Society for the Promotion of Science, *<font color="#808080">2026.04 - 2028.03</font>* (Grant Number [JP26KJ1609](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26KJ1609/))
   - **<u>Jiye Qiu</u>**, "Establishment of a Novel Compton Camera for Dosimetry Application in Boron Neutron Capture Therapy", Research Expenses (The University of Osaka Next Generation Researcher Development Project), Support for Pioneering Research Initiated by the Next Generation, Japan Science and Technology Agency, *<font color="#808080">2024.04 - 2027.03</font>* (Grant Number JPMJSP2138)
 <p style="font-size:12px" align="right"><font color="#808080"><u>Main Recipient</u></font></p>
 
