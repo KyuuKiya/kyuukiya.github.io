@@ -78,7 +78,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - **<u>J. Qiu</u>**, et al., "Ion Optical Design Technique of a Static Gantry System for Carbon-ion Radiotherapy using Genetic Algorithm", *AFAD2025 (Asian Forum for Accelerators and Detectors)*, Aobayama Campus, Tohoku University, Japan, June 2025. (Oral)
   - **<u>J. Qiu</u>**, et al., "Design of Si-TlBr Compton Camera Geometry using PHITS for Measuring Prompt Gamma-rays in BNCT", *PHITS Workshop at JAEA 2025*, JAEA Tokai Mirai Base, Japan, February 2025. (Poster)
   - **<u>J. Qiu</u>**, et al., "Experimental Investigation of a Compact Epi-thermal Neutron Flux Measurement System for Real-time Beam Monitoring in BNCT", *The 10th Japan-Korea Joint Meeting on Medical Physics*, Nagoya Congress Center, Japan, September 2024. (Poster)
-  - **<u>J. Qiu</u>**, et al., "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [[Certificate](images/Jiye_Qiu_PosterCertificate.png)]
+  - **<u>J. Qiu</u>**, et al., "Design Study of Real‑time Absolute Epi‑thermal Neutron Flux Intensity Monitor using Scintillation Detectors", *Young Researchers’ BNCT Meeting 2022 (YBNCT‑2022)*, Virtual Meeting, November 2022. (Poster) [<a href="#" class="show-image" data-src="images/Jiye_Qiu_PosterCertificate.png">Image</a>]
 - **Domestic Conferences**
   - **<u>J. Qiu</u>**, et al., "Compton Camera Image Denoising using Deep Learning-based Event Selection - Application to BNCT Prompt Gamma-ray Imaging -", *The 5th Meeting of Japanese Society for Quantum Medical Science*, Hospital Campus, Kyushu University, Japan, November 2025. (Poster) (In Japanese)
   - **<u>J. Qiu</u>**, et al., "Basic design of Compton camera used for prompt gamma-ray imaging in boron neutron capture therapy", *The 86th JSAP Autumn Meeting*, Tempaku Campus, Meijo University, Japan, September 2025. (Oral) (In Japanese)
@@ -92,7 +92,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Achievements
 - **Honors and Awards**
-  - Excellent Presentation Award (Physics), The 5th Meeting of Japanese Society for Quantum Medical Science, <font color="#800000">Japanese Society for Quantum Medical Science</font>, *<font color="#808080">2025.11</font>* [[Image](images/award_jquam2025.jpg)]
+  - Excellent Presentation Award (Physics), The 5th Meeting of Japanese Society for Quantum Medical Science, <font color="#800000">Japanese Society for Quantum Medical Science</font>, *<font color="#808080">2025.11</font>* [<a href="#" class="show-image" data-src="images/award_jquam2025.jpg">Image</a>]
   - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.07</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>*
 - **Scholarships and Fellowships**
@@ -164,12 +164,12 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>* [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (The University of Osaka)**
   - Basic Techniques of Detection and Measurements for Fundamental Sciences, <font color="#800000">Graduate School of Science</font>, *<font color="#808080">2025.03</font>* [<a href="#" class="show-image" data-src="images/measurement_certificate.jpg">Image</a>]
-  - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[Image](images/crepe_certificate.jpg)][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
+  - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [<a href="#" class="show-image" data-src="images/crepe_certificate.jpg">Image</a>][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
-  - IEEE MIC Short Course: AI for image reconstruction and processing, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.11</font>* [[Image](images/2025IEEENSSMICRTSD_certificate.jpg)]
-  - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [[Image](images/geant4_med_certificate.jpg)]
-  - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [[Image](images/itccir_certificate.jpg)]
-  - Management and Measurement Course for Radiation Protection, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [[Image](images/radiation_certificate_1.jpg)]
+  - IEEE MIC Short Course: AI for image reconstruction and processing, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.11</font>* [<a href="#" class="show-image" data-src="images/2025IEEENSSMICRTSD_certificate.jpg">Image</a>]
+  - Geant4 Training Course in Medicine 2023, <font color="#800000">The High Energy Accelerator Research Organization (KEK)</font>, *<font color="#808080">2023.09</font>* [<a href="#" class="show-image" data-src="images/geant4_med_certificate.jpg">Image</a>]
+  - International Training Course on Carbon-ion Radiotherapy, <font color="#800000">Association for Nuclear Technology in Medicine</font>, *<font color="#808080">2022.12</font>* [<a href="#" class="show-image" data-src="images/itccir_certificate.jpg">Image</a>]
+  - Management and Measurement Course for Radiation Protection, <font color="#800000">National Institutes for Quantum Science and Technology</font>, *<font color="#808080">2022.09</font>* [<a href="#" class="show-image" data-src="images/radiation_certificate_1.jpg">Image</a>]
   - Coursera Online Courses: Programming in C++: A Hands-on Introduction [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/R9VTFRNZ9FL9)], Deep Learning [[URL](https://www.coursera.org/account/accomplishments/specialization/certificate/CGY9GT4HAF2L)]
 
 # Professional Memberships
@@ -243,4 +243,13 @@ document.querySelectorAll(".show-image").forEach(link => {
 viewer.onclick = function(){
     viewer.style.display = "none";
 };
+
+document.addEventListener("contextmenu", function(e) {
+    e.preventDefault();
+});
+
+document.addEventListener("dragstart", function(e) {
+    e.preventDefault();
+});
+
 </script>
