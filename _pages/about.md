@@ -163,7 +163,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Japanese-Language Proficiency Certificate N1, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2021.08</font>* [Certification No. N1A430621A]
   - Japanese-Language Proficiency Certificate N2, <font color="#800000">The Japan Foundation</font>, *<font color="#808080">2019.08</font>* [Certification No. N2A510830A]
 - **Graduate Program for Advanced Interdisciplinary Studies (The University of Osaka)**
-  - Basic Techniques of Detection and Measurements for Fundamental Sciences, <font color="#800000">Graduate School of Science</font>, *<font color="#808080">2025.03</font>* [[Image](https://kyuukiya.github.io/images/measurement_certificate.jpg)]
+  - Basic Techniques of Detection and Measurements for Fundamental Sciences, <font color="#800000">Graduate School of Science</font>, *<font color="#808080">2025.03</font>* [<a href="#" class="show-image" data-src="https://kyuukiya.github.io/images/measurement_certificate.jpg">Image</a>]
   - Co-creative Radiation Education Programme (CREPE), <font color="#800000">Institute for Radiation Sciences</font>, *<font color="#808080">2024.03</font>* [[Image](https://kyuukiya.github.io/images/crepe_certificate.jpg)][[URL](https://www.rcnp.osaka-u.ac.jp/crepe/course2/index.html)]
 - **Training Certifications**
   - IEEE MIC Short Course: AI for image reconstruction and processing, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.11</font>* [[Image](https://kyuukiya.github.io/images/2025IEEENSSMICRTSD_certificate.jpg)]
