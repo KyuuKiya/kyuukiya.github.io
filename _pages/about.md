@@ -62,7 +62,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
-  - **<u>Jiye Qiu</u>**&#42;, Makoto Sakai&#42;, Caixun Zhang, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka and Isao Murata&#42;, "Improving Compton imaging of 478 keV prompt gamma-ray in boron neutron capture therapy with neural network-based event filtering: a simulation study", *Physics in Medicine and Biology*, vol. 71, no. 12, p. 125003, June 2026. doi: [10.1088/1361-6560/ae74ae](https://doi.org/10.1088/1361-6560/ae74ae)
+  - **<u>Jiye Qiu</u>**&#42;, Makoto Sakai&#42;, Caixun Zhang, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka, Isao Murata&#42;, "Improving Compton imaging of 478 keV prompt gamma-ray in boron neutron capture therapy with neural network-based event filtering: a simulation study", *Physics in Medicine and Biology*, vol. 71, no. 12, p. 125003, June 2026. doi: [10.1088/1361-6560/ae74ae](https://doi.org/10.1088/1361-6560/ae74ae)
   - <u>Nikolaos Voulgaris</u>&#42;, **Jiye Qiu**, Shingo Tamaki, Sachie Kusaka, Isao Murata, "Simultaneous measurement of gamma-ray energy spectrum and dose in real-time up to 3 MeV with CsI(Tl) scintillator-based prototype monitor", *Radiation Measurements*, vol. 194, p. 107683, June 2026. doi: [10.1016/j.radmeas.2026.107683](https://doi.org/10.1016/j.radmeas.2026.107683)
   - **<u>Jiye Qiu</u>**, Makoto Sakai&#42;, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka, Isao Murata&#42;, "Comprehensive design study of the Si/TlBr semiconductor-based Compton camera for 478 keV prompt gamma-ray imaging in boron neutron capture therapy", *Japanese Journal of Applied Physics*, vol. 64, no. 9, p. 097001, September 2025. doi: [10.35848/1347-4065/ae02d5](https://doi.org/10.35848/1347-4065/ae02d5)
   - **<u>Jiye Qiu</u>**&#42;, Mitsuhiro Fukuda&#42;, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
@@ -95,7 +95,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
   - Trainee Grant, 2025 IEEE Nuclear Science Symposium, Medical Imaging Conference, and Room Temperature Semiconductor Detectors Symposium, <font color="#800000">IEEE Nuclear and Plasma Sciences Society</font>, *<font color="#808080">2025.07</font>*
   - Faculty of Engineering Honours Recipient (Honours Class I), <font color="#800000">The University of Sydney</font>, *<font color="#808080">2021.09</font>*
 - **Scholarships and Fellowships**
-  - Research Fellowships for Young Scientists DC2 (Engineering Sciences), <font color="#800000">Japan Society for the Promotion of Science</font>, *<font color="#808080">2026.04 - 2027.03</font>* [[URL](https://www.jsps.go.jp/english)]
+  - Research Fellowships for Young Scientists DC2 (Engineering Sciences), <font color="#800000">Japan Society for the Promotion of Science</font>, *<font color="#808080">2026.04 - 2028.03</font>* [[URL](https://www.jsps.go.jp/english)]
   - Honors Program for Graduate Schools in Science, Engineering and Informatics (Fundamental and Astro Physics Research Unit), <font color="#800000">The University of Osaka</font>, *<font color="#808080">2024.04 - 2027.03</font>* [[URL](https://www.osaka-u.ac.jp/en/education/HonorsProgram)]
 - **Research Support**
   - Bonus Research Expenses (The University of Osaka Next Generation Researcher Development Project), Article Processing Charge Support, <font color="#800000">Institute for Transdisciplinary Graduate Degree Programs, The University of Osaka</font>, *<font color="#808080">2025.10</font>*
@@ -197,6 +197,7 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 # Contact
 Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
+<br>
 
 <div id="viewer" style="
 display:none;
