@@ -20,10 +20,9 @@ redirect_from:
 # About Me
  <br>
 Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Medical Imaging, Nuclear Medicine Instrumentation, Scintillation Counting, Monte Carlo Simulation, Deep Learning<br>
- <br>
-日本語の履歴と業績は[Researchmap](https://researchmap.jp/jiye-qiu)にご参照ください。
 
 # News
+- **<font color="#FF000"><em>2026.06</em>: Published a first-authored article in <a href="https://doi.org/10.1088/1361-6560/ae74ae">Physics in Medicine and Biology</a>.</font>**
 - ***2026.04*: Selected as a JSPS Research Fellow.**
 - ***2025.10*: Passed Senior Radiation Safety Specialist Examination (第1種放射線取扱主任者試験).**
 - **<font color="#FF000"><em>2025.09</em>: Published a first-authored article in <a href="https://doi.org/10.35848/1347-4065/ae02d5">Japanese Journal of Applied Physics</a>.</font>** 
@@ -63,12 +62,11 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 
 # Publications 
 - **Journal Articles**
+  - **<u>Jiye Qiu</u>**&#42;, Makoto Sakai&#42;, Caixun Zhang, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka and Isao Murata&#42;, "Improving Compton imaging of 478 keV prompt gamma-ray in boron neutron capture therapy with neural network-based event filtering: a simulation study", *Physics in Medicine and Biology*, vol. 71, no. 12, p. 125003, June 2026. doi: [10.1088/1361-6560/ae74ae](https://doi.org/10.1088/1361-6560/ae74ae)
   - <u>Nikolaos Voulgaris</u>&#42;, **Jiye Qiu**, Shingo Tamaki, Sachie Kusaka, Isao Murata, "Simultaneous measurement of gamma-ray energy spectrum and dose in real-time up to 3 MeV with CsI(Tl) scintillator-based prototype monitor", *Radiation Measurements*, vol. 194, p. 107683, June 2026. doi: [10.1016/j.radmeas.2026.107683](https://doi.org/10.1016/j.radmeas.2026.107683)
   - **<u>Jiye Qiu</u>**, Makoto Sakai&#42;, Nikolaos Voulgaris, Shingo Tamaki, Sachie Kusaka, Isao Murata&#42;, "Comprehensive design study of the Si/TlBr semiconductor-based Compton camera for 478 keV prompt gamma-ray imaging in boron neutron capture therapy", *Japanese Journal of Applied Physics*, vol. 64, no. 9, p. 097001, September 2025. doi: [10.35848/1347-4065/ae02d5](https://doi.org/10.35848/1347-4065/ae02d5)
-  <a href="https://plu.mx/plum/a/?doi=10.35848/1347-4065/ae02d5" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Comprehensive design study of the Si/TlBr semiconductor-based Compton camera for 478 keV prompt gamma-ray imaging in boron neutron capture therapy</a>
   - **<u>Jiye Qiu</u>**&#42;, Mitsuhiro Fukuda&#42;, Shotaro Matsui, Isao Murata, "Conceptual investigation of a static gantry system with multiple irradiation angles for carbon-ion radiotherapy: optimization strategy of beam optics", *Journal of Instrumentation*, vol. 20, no. 5, p. P05012, May 2025. doi: [10.1088/1748-0221/20/05/P05012](https://doi.org/10.1088/1748-0221/20/05/P05012)
   - **<u>Jiye Qiu</u>**, Daisuke Hatano, Yulin Ge, Nikolaos Voulgaris, Kohei Sagara, Zhaopeng Qiao, Shingo Tamaki, Sachie Kusaka, Takushi Takata, Isao Murata&#42;, "Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy", *Radiation Measurements*, vol. 178, p. 107308, November 2024. doi: [10.1016/j.radmeas.2024.107308](https://doi.org/10.1016/j.radmeas.2024.107308)
-  <a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.radmeas.2024.107308" data-popup="right" data-badge="true" class="plumx-plum-print-popup plum-bigben-theme" data-site="plum" data-hide-when-empty="true" data-pass-hidden-categories="true" data-hide-captures="true" data-hide-socialmedia="true" data-hide-usage="true">Preliminary study of a compact epithermal neutron absolute flux intensity measurement system for real-time in-vivo dose monitoring in boron neutron capture therapy</a>
 <p style="font-size:12px" align="right"><font color="#808080"><u>First Author</u>, Corresponding Author&#42;</font></p>
 
 # Presentations 
@@ -192,23 +190,13 @@ Research Keywords: Medical Physics, Radiation Measurement, Particle Therapy, Med
 - **Languages**: Chinese (Native), Japanese (Fluent), English (Proficient)
 - **Coding and Programming**: Python, MATLAB, C++, Java, HTML, LaTeX
 - **Simulation and Modeling**: PHITS, Geant4, MAD-X, Opera-3D
-- **Medical Image Processing**: 3D Slicer, ITK
+- **Medical Image Processing**: ImageJ, 3D Slicer, ITK
 - **Radiotherapy Treatment Planning**: RayStation, Eclipse
 - **Laboratory Skills**: Radiation Detectors, Oscilloscope, Spectrum Analysis (DppMCA)
 
-# Access Information
+# Contact
 Division of Sustainable Energy and Environmental Engineering, Graduate School of Engineering, The University of Osaka<br>
 2-1 Yamadaoka, Suita, Osaka 565-0871, Japan<br>
-<iframe
-  width="400"
-  height="300"
-  style="border:0"
-  loading="lazy"
-  allowfullscreen
-  referrerpolicy="no-referrer-when-downgrade"
-  src="https://www.google.com/maps/embed/v1/place?key=AIzaSyCg7WMfMpu_xgAtEe0CmIisCG_EFvrXGWo
-    &q=place_id:ChIJU6aW22D7AGAR78nHantxhPU&zoom=13">
-</iframe>
 
 <div id="viewer" style="
 display:none;
